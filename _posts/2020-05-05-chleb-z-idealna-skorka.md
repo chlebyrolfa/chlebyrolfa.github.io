@@ -17,11 +17,11 @@ when-to-start: rano poprzedniego dnia
 
 ##### Chleb
 
-* 340 g wody
+* 340 g + 25 g wody
 * 450 g mąki pszennej chlebowej (typ 750)
 * 50 g mąki pszennej razowej (typ 2000)
 * 12 g soli
-* 25 g wody
+* mąka do oprószenia koszyka
 
 ## W skrócie
 
@@ -84,7 +84,7 @@ when-to-start: rano poprzedniego dnia
 
 ![Formowanie drugie](/assets/images/blog/2020-05-05-chleb-z-idealna-skorka/formowanie-drugie.jpg)
 
-16\. Wreszcie kręcąc rękami od dołu uformuj okrągły bochenek.
+16\. Wreszcie obracając rękami uformuj okrągły bochenek.
 
 ![Formowanie trzecie](/assets/images/blog/2020-05-05-chleb-z-idealna-skorka/formowanie-trzecie.jpg)
 
