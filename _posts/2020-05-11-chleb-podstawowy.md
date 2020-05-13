@@ -2,25 +2,25 @@
 layout: post
 image:  assets/images/blog/2020-05-11-chleb-podstawowy/glowny.jpg
 title: Chleb podstawowy
-when-to-start: późnym popołudniej poprzedniego dnia
+when-to-start: późnym popołudniem poprzedniego dnia
 ---
 
 ## Składniki
 
 ##### Chleb
 
-* 3 szklanki dowolnej mąki, na przykład:
+* 3 szklanki (360 g) dowolnej mąki, na przykład:
   * 1 szklanka mąki żytniej chlebowej
   * 1 szklanka mąki żytniej razowej
   * 1 szklanka mąki pszennej chlebowej
-* 1,5 szklanki wody
+* 1,5 szklanki (310 g) wody
 * 2 łyżki zakwasu
-* 1 płaska łyżka soli
+* 1 płaska łyżka (10 g) soli 
 * (opcjonalnie) 1/2 szklanki ziaren (słonecznik, pestki dyni albo siemię lniane zalane wrzątkiem)
 
 ##### Dodatkowo
 
-* oliwa do posmarowanie formy
+* oliwa do posmarowania formy
 * mąka razowa do posypania chleba
 
 ## W skrócie
@@ -29,7 +29,7 @@ when-to-start: późnym popołudniej poprzedniego dnia
 * Dodaj zakwas i wodę
 * Wymieszaj wszystko łyżką
 * Przenieś masę do formy wysmarowanej oliwą
-* Posyp chleb mąka razową
+* Posyp chleb mąką razową
 * Przykryj ściereczką i zostaw na noc
 * Rano włóż chleb do piekarnika nagrzanego do 230 stopni
 * Piecz 42 minuty
