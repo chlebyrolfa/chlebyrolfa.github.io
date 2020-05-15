@@ -45,13 +45,12 @@ when-to-start: wieczorem, dwa dni przed wypiekiem
 * Przełóż zieloną masę do drugiej miski
 * Obie miski przykryj folią spożywczą i odłóż na noc do lodówki
 * Rano przełóż ciasta z obu misek na blat i podziel każde z nich na 4 części
-* Uformuj 8 kulek i pozostaw je na blacie na 15 minut
+* Uformuj z nich w sumie 8 kulek i pozostaw je na blacie na 15 minut
 * Rozwałkuj jedna żółtą kulkę i jedną zieloną kulkę
-* Nałóż rozwałkowane ciasta na siebie i zwiń je razem jak rogalik
-* Przełóż zwinięte ciasta do formy
+* Nałóż rozwałkowane ciasta na siebie, zwiń je razem jak rogalik i przełóż do formy
 * Powtórz to samo dla pozostałych kulek
 * Odłóż powstały chleb na 1 godzinę do wyrośnięcia
-* Posmaruj chleb jajkiem rozbełtanym z wodą i posyp sezamem
+* Posmaruj chleb jajkiem rozbełtanym z łyzką wody i posyp sezamem
 * Piecz 30 minut w 170 stopniach
 * Wyłącz piekarnik i podchyl drzwiczki, ale zostaw chleb w środku jeszcze na 5 minut
 
@@ -84,12 +83,12 @@ when-to-start: wieczorem, dwa dni przed wypiekiem
 ![Wymieszany](/assets/images/blog/2020-05-14-japonski-chleb-matcha/wymieszany.jpg)
 
 11\. Obie miski przykryj folią spożywczą i odłóż na noc do lodówki.\\
-12\. Rano masy powinny być wyrośnięte.
+12\. Rano masy powinny wyrosnąć.
 
 ![Wyrośnięty](/assets/images/blog/2020-05-14-japonski-chleb-matcha/wyrosniety.jpg)
 
 13\. Przełóż ciasta z obu misek na blat i podziel każde z nich na 4 części.\\
-14\. Uformuj 8 kulek i pozostaw je na blacie na 15 minut.
+14\. Uformuj z nich w sumie 8 kulek i pozostaw je na blacie na 15 minut.
 
 ![Kulki](/assets/images/blog/2020-05-14-japonski-chleb-matcha/kulki.jpg)
 
