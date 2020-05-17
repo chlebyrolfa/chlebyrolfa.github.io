@@ -28,15 +28,15 @@ when-to-start: wieczorem, dwa dni przed wypiekiem
 
 ##### Dodatkowo
 
-* oliwa do wysmarowanie misek
-* 1 jajko + 1 łyżka wody do pozmarowania chleba
+* oliwa do wysmarowania misek
+* 1 jajko + 1 łyżka wody do posmarowania chleba
 * sezam do posypania chleba
 
 ## W skrócie
 
 * Wymieszaj składniki na Tangzhong w garnuszku i podgrzewaj na małym ogniu, ciągle mieszając
 * Gdy masa zgęstnieje, przełóż do miseczki, przykryj folią spożywczą i włóż na noc do lodówki
-* Następnego dnia wieczorem wymieszaj wszystkie składniki na chleb oprócz harbaty matcha
+* Następnego dnia wieczorem wymieszaj wszystkie składniki na chleb oprócz herbaty matcha
 * Wyrabiaj hakiem przez 20 minut
 * Wysmaruj dwie miski oliwą
 * Podziel masę na dwie równe części i jedną z nich przełóż do miski
@@ -45,12 +45,12 @@ when-to-start: wieczorem, dwa dni przed wypiekiem
 * Przełóż zieloną masę do drugiej miski
 * Obie miski przykryj folią spożywczą i odłóż na noc do lodówki
 * Rano przełóż ciasta z obu misek na blat i podziel każde z nich na 4 części
-* Uformuj z nich w sumie 8 kulek i pozostaw je na blacie na 15 minut
-* Rozwałkuj jedna żółtą kulkę i jedną zieloną kulkę
+* Uformuj z nich w sumie 8 kulek (po 4 w każdym kolorze) i pozostaw je na blacie na 15 minut
+* Rozwałkuj jedną żółtą kulkę i jedną zieloną kulkę
 * Nałóż rozwałkowane ciasta na siebie, zwiń je razem jak rogalik i przełóż do formy
 * Powtórz to samo dla pozostałych kulek
 * Odłóż powstały chleb na 1 godzinę do wyrośnięcia
-* Posmaruj chleb jajkiem rozbełtanym z łyzką wody i posyp sezamem
+* Posmaruj chleb jajkiem rozbełtanym z łyżką wody i posyp sezamem
 * Piecz 30 minut w 170 stopniach
 * Wyłącz piekarnik i podchyl drzwiczki, ale zostaw chleb w środku jeszcze na 5 minut
 
@@ -66,7 +66,7 @@ when-to-start: wieczorem, dwa dni przed wypiekiem
 
 ![Tangzhong gotowe](/assets/images/blog/2020-05-14-japonski-chleb-matcha/tangzhong-gotowe.jpg)
 
-5\. Następnego dnia wieczorem wymieszaj wszystkie składniki na chleb oprócz harbaty matcha.\\
+5\. Następnego dnia wieczorem wymieszaj wszystkie składniki na chleb oprócz herbaty matcha.\\
 6\. Wyrabiaj hakiem przez 20 minut.\\
 7\. W międzyczasie wysmaruj dwie miski oliwą.
 
