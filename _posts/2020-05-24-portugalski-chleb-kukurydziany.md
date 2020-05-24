@@ -44,7 +44,7 @@ Najpiękniejszy chleb świata! Portugalski Broa de Milho to jedyny w swoim rodza
 3. Odstaw na **1 godzinę**
 4. Dodaj **wszystkie składniki na chleb** i przełóż na blat
 5. **Wyrabiaj** rękami i uformuj **kulkę**
-6. Sprykaj wierz chleba **wodą**, posyp **mąką** i wygładź **ręką**
+6. Sprykaj wierzch chleba **wodą**, posyp **mąką** i wygładź **ręką**
 7. Przykryj ściereczką i zostaw na blacie przez **noc**
 8. Rano przełóż chleb na rozgrzany do **250 stopni** kamień
 9. Piecz **20 minut**
@@ -54,7 +54,7 @@ Najpiękniejszy chleb świata! Portugalski Broa de Milho to jedyny w swoim rodza
 
 ## Przepis szczegółowy
 
-1\. Wymieszał łyżką **składniki na zakwas**, przykryj i odłóż na **8-10 godzin**. Po tym czasie zakwas powinien być aktywny (zwiększy objętość i będzie widać "bąbelki").
+1\. Wymieszaj łyżką **składniki na zakwas**, przykryj i odłóż na **8-10 godzin**. Po tym czasie zakwas powinien być aktywny (zwiększy objętość i będzie widać "bąbelki").
 
 ![Portugalski chleb kukurydziany - Zakwas](/assets/images/blog/2020-05-24-portugalski-chleb-kukurydziany/portugalski-chleb-kukurydziany-zakwas.jpg)
 
