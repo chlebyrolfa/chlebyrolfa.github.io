@@ -28,13 +28,7 @@
 <title>{{site.name}}</title>
 {% endif %}
 
-{% if page.title %}
-<description>{{ page.title }} | {{site.name}}</description>
-{% else %}
-<description>{{site.name}}</description>
-{% endif %}
-
-{% seo %}
+{% seo title=false %}
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
@@ -98,6 +92,13 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/">Chleby</a>
                 </li>
+                {% if page.url == "/zakwas" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/zakwas">Zakwas</a>
+                </li>
 
             </ul>
 
@@ -113,15 +114,6 @@ ga('send', 'pageview');
 <div class="site-content">
 
 <div class="container">
-
-<!-- Site Title
-================================================== -->
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-        {{ site.description }}
-    </p>
-</div>
 
 <!-- Content
 ================================================== -->
@@ -164,10 +156,6 @@ ga('send', 'pageview');
 {% endif %}
 
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
-
-{% if page.layout == 'post' %}
-<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
-{% endif %}
 
 </body>
 </html>

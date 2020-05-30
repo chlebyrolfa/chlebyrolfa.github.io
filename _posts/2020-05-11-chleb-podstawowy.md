@@ -1,13 +1,23 @@
 ---
 layout: post
-image:  assets/images/blog/2020-05-11-chleb-podstawowy/glowny.jpg
+image:  assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy.jpg
 title: Chleb podstawowy
+description: "Przepis na prosty chleb na zakwasie. Miąższ idealny, pachnący, skórka wypieczona i chrupiąca. Polecam wszystkim, którzy zaczynają swoją przygodę z wypiekaniem chleba. Najlepszy z najlepszych składników: mąka żytnia, woda, sól i wyhodowany samodzielnie zakwas"
+tags: na-poczatek zakwas bardzo-prosty forma
+categories: chleby
+baking-pan: "22-24 cm"
 when-to-start: późnym popołudniem poprzedniego dnia
 ---
 
+-----
+
+Pierwszy chleb, jaki upiekłem w życiu. Polecił mi go mój kolega, który podzielił się też ze mną zakwasem. Chleb jest przepyszny i bardzo tolerancyjny na wszystkie niedokładności i zmiany. Zawsze wychodzi świetny, a jego przygotowanie nie wymaga wiele czasu, dlatego polecam go szczególnie tym, którzy rozpoczynają swoją przygodę z wypiekaniem chleba. Można dowolnie mieszać mąki - mogą być razowe, mogą być z dodatkiem mąki orkiszowej albo gryczanej. Do tego polecam dodać też ziarna słonecznika lub pestki dyni.
+
+-----
+
 ## Składniki
 
-##### Chleb
+#### Chleb
 
 * 3 szklanki (360 g) dowolnej mąki, na przykład:
   * 1 szklanka mąki żytniej chlebowej
@@ -18,52 +28,45 @@ when-to-start: późnym popołudniem poprzedniego dnia
 * 1 płaska łyżka (10 g) soli 
 * (opcjonalnie) 1/2 szklanki ziaren (słonecznik, pestki dyni albo siemię lniane zalane wrzątkiem)
 
-##### Dodatkowo
+#### Dodatkowo
 
 * oliwa do posmarowania formy
 * mąka razowa do posypania chleba
 
+-----
+
 ## W skrócie
 
-* Wymieszaj w misce wszystkie suche składniki
-* Dodaj zakwas i wodę
-* Wymieszaj wszystko łyżką
-* Przenieś masę do formy wysmarowanej oliwą
-* Posyp chleb mąką razową
-* Przykryj ściereczką i zostaw na noc
-* Rano włóż chleb do piekarnika nagrzanego do 230 stopni
-* Piecz 42 minuty
+1. Wymieszaj w misce wszystkie **suche składniki**
+2. Dodaj **zakwas i wodę**, wymieszaj wszystko łyżką
+3. Przenieś masę do **formy wysmarowanej oliwą**
+4. Posyp chleb **mąką razową**, przykryj ściereczką i odłóż na noc
+5. Rano włóż chleb do piekarnika nagrzanego do **230 stopni** i piecz **42 minuty**
+
+-----
 
 ## Przepis szczegółowy
 
-1\. Przygotuj wszystkie składniki.
+1\. Przygotuj wszystkie składniki. W pierwszej kolejności wymieszaj łyżką wszystkie **suche elementy: mąkę, sól i ziarna**.
 
-![Składniki](/assets/images/blog/2020-05-11-chleb-podstawowy/skladniki.jpg)
+![Chleb podstawowy - Składniki](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-skladniki.jpg)
 
-2\. Wymieszaj w misce wszystkie suche składniki (mąki, sól, ziarna).\\
-3\. Dodaj zakwas i wodę.\\
-4\. Wymieszaj masę (konsystencja powinna być gęsta, ale dająca się mieszać łyżką).
+2\. Dodaj **zakwas i wodę**, wymieszaj wszystko łyżka. Konsystencja powinna być gęsta, ale dająca się bez problemu mieszać.
 
-![Mieszanie](/assets/images/blog/2020-05-11-chleb-podstawowy/mieszanie.jpg)
+![Chleb podstawowy - Mieszanie](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-mieszanie.jpg)
 
-5\. Wysmaruj formę oliwą.\\
-6\. Przełóż masę do formy.\\
-7\. Posyp chleb mąką razową.\\
-8\. Przykryj ściereczką i zostaw na noc w temperaturze pokojowej.
+3\. Wysmaruj **formę oliwą** i przełóż masę do formy. Chleb urośnie dlatego sprawdź czy masa nie sięga wyżej niż 60% wysokości formy.
 
-![Forma](/assets/images/blog/2020-05-11-chleb-podstawowy/forma.jpg)
+4\. Posyp chleb **mąką razową**. Następnie przykryj ściereczką i zostaw na noc w temperaturze pokojowej.
 
-9\. Rano chleb powinien być wyrośnięty.
+![Chleb podstawowy - Forma](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-forma.jpg)
 
-![Wyrośnięty](/assets/images/blog/2020-05-11-chleb-podstawowy/wyrosniety.jpg)
+5\. Rano chleb powinien być wyrośnięty. Nagrzej piekarnik do **230 stopni** i włóż do niego chleb. Piecz **42 minuty**. Chleb nie powinien już rosnąć w piekarniku, ale za to ładnie się zarumienić.
 
-10\. Nagrzej piekarnik do 230 stopni.\\
-11\. Włóż chleb do piekarnika.
+![Chleb podstawowy - Wyrośnięty](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-wyrosniety.jpg)
 
-![Pieczenie](/assets/images/blog/2020-05-11-chleb-podstawowy/pieczenie.jpg)
+![Chleb podstawowy - Pieczenie](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-pieczenie.jpg)
 
-12\. Piecz 42 minuty.
+![Chleb podstawowy - Chleb podstawowy](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-koniec.jpg)
 
-![Chleb podstawowy](/assets/images/blog/2020-05-11-chleb-podstawowy/koniec.jpg)
-
-![Chleb podstawowy](/assets/images/blog/2020-05-11-chleb-podstawowy/koniec-drugi.jpg)
+![Chleb podstawowy - Chleb podstawowy](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-koniec-drugi.jpg)

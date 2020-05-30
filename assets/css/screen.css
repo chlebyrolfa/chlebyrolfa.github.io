@@ -185,6 +185,10 @@ section.recent-posts {
     font-weight: 400;
 }
 
+.listrecent .card-body {
+    padding-bottom: 0;
+}
+
 .listrecent .conference-card-footer-links {
     margin-bottom: 20px;
 }
@@ -217,7 +221,8 @@ section.recent-posts {
     font-size: .8rem;
     display: flex;
     align-items: center;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .author-thumb {
@@ -275,6 +280,11 @@ span.post-read {
     color: rgba(0, 0, 0, .44);
 }
 
+span.postbox-date {
+    text-align: right;
+    float:right;
+}
+
 span.post-read-more {
     align-items: center;
     display: inline-block;
@@ -284,6 +294,18 @@ span.post-read-more {
 
 span.post-read-more a {
     color: rgba(0, 0, 0, .44);
+}
+
+span.post-icon {
+    height: 18px;
+    text-align: left;
+    float: left;
+}
+
+span.post-icon img {
+    height: 18px;
+    text-align: left;
+    float: left;
 }
 
 span.post-name a,
@@ -354,6 +376,7 @@ span.post-read-more a:hover {
 
 .mainheading h1.posttitle {
     font-weight: 700;
+    font-size: 2rem;
     margin-bottom: 1rem;
 }
 
@@ -380,6 +403,18 @@ span.post-read-more a:hover {
     color: rgba(0, 0, 0, .8);
 }
 
+.article-post .intro-icon {
+    vertical-align: middle;
+    line-height:2;
+    margin: 1.5rem 0 3.0rem 0;
+}
+
+.article-post .intro-icon img {
+    height: 20px;
+    padding-right:10px;
+    padding-bottom:2px;
+}
+
 .article-post .when-to-start {
     vertical-align: middle;
     line-height:2;
@@ -387,7 +422,7 @@ span.post-read-more a:hover {
 }
 
 .article-post .when-to-start img {
-    height: 18px;
+    height: 19px;
     padding-right:5px;
     padding-bottom:2px;
 }
@@ -758,6 +793,26 @@ h6 {
 .article-post h6 {
     font-weight: 680;
     margin-bottom: 0.8rem;
+}
+
+.article-post h1 {
+    font-size: 2.0rem;
+}
+
+.article-post h2 {
+    font-size: 1.6rem;
+}
+
+.article-post h3 {
+    font-size: 1.4rem;
+}
+
+.article-post h4 {
+    font-size: 1.0rem;
+}
+
+.article-post h5 {
+    font-size: 1.0rem;
 }
 
 .article-post img.shadow {
