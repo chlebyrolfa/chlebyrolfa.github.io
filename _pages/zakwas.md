@@ -7,7 +7,7 @@ permalink: /zakwas
 comments: true
 ---
 
-Zakwas ma w sobie pewną magię. Przywołuje starodawne czasy, kiedy to wszystkie chleby były wypiekane właśnie na zakwasie. Tak naprawdę, zakwas to po prostu dzika wersja drodży, która **fermentuje wolniej**, ma charakterystyczny **kwaśny posmak** i daje się samemu **hodować w domu**. Poniżej przedstawiam Wam kilka pomocnych informacji jak się z zakwasem obchodzić.
+Zakwas ma w sobie pewną magię. Przywołuje starodawne czasy, kiedy to wszystkie chleby były wypiekane właśnie na zakwasie. Tak naprawdę, zakwas to po prostu dzika wersja drożdży, która **fermentuje wolniej**, ma charakterystyczny **kwaśny posmak** i daje się samemu **hodować w domu**. Poniżej przedstawiam Wam kilka pomocnych informacji jak się z zakwasem obchodzić.
 
 -----
 
@@ -68,13 +68,13 @@ Z zakwasu, tak jak i z drożdży, można upiec bardzo wiele rzeczy. Na początek
 
 #### Czy mój zakwas się zepsuł?
 
-Zakwas się zepsuł jeśli pojawiła się na nim **zielona pleśń** albo jeśli **nie staje się aktywny** po dodaniu mąki. W innym wypadku najprawdopodobniej wszystko jest dobrze z Twoim zakwasem. Jeśli wygląda źle (jest rozwarstwiony lub pokryty zeschłą warstwą) to po prostu pozbądź się wierzchnich warstw, przełóź resztę do świeżego słoika i dokarm zakwas. Wszystko będzie dobrze.
+Zakwas się zepsuł, jeśli pojawiła się na nim **zielona pleśń** albo jeśli **nie staje się aktywny** po dodaniu mąki. W innym wypadku najprawdopodobniej wszystko jest dobrze z Twoim zakwasem. Jeśli wygląda źle (jest rozwarstwiony lub pokryty zeschłą warstwą) to po prostu pozbądź się wierzchnich warstw, przełóż resztę do świeżego słoika i dokarm zakwas. Wszystko będzie dobrze.
 
 -----
 
 #### Mój zakwas nie bąbelkuje po dokarmieniu, co robić?
 
-Spróbuj dokarmić zakwas jeszcze raz. Jeśli przez **16 godzin dalej nie bąbelkuje** to spróbuj jeszcze raz. Jeśli dalej nie staje się aktywny, to znaczy że zakwas się popsuł i musisz [zdobyć nowy](#skąd-mogę-wziąć-zakwas).
+Spróbuj dokarmić zakwas jeszcze raz. Jeśli przez **16 godzin dalej nie bąbelkuje** to spróbuj jeszcze raz. Jeśli dalej nie staje się aktywny, to znaczy, że zakwas się popsuł i musisz [zdobyć nowy](#skąd-mogę-wziąć-zakwas).
 
 -----
 
