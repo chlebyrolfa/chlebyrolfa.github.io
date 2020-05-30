@@ -62,7 +62,7 @@ Nie, zakwas **fermentuje dużo wolniej**. Zmienia też **smak chleba** i jego **
 
 #### Co mogę upiec z zakwasu?
 
-Z zakwasu, tak jak i z drożdży, można upiec bardzo wiele rzeczy. Na początek polecam [Chleb podstawowy](2020-05-11-chleb-podstawowy).
+Z zakwasu, tak jak i z drożdży, można upiec bardzo wiele rzeczy. Na początek polecam [chleb podstawowy]({% post_url 2020-05-11-chleb-podstawowy %}).
 
 -----
 
@@ -74,11 +74,11 @@ Zakwas się zepsuł jeśli pojawiła się na nim **zielona pleśń** albo jeśli
 
 #### Mój zakwas nie bąbelkuje po dokarmieniu, co robić?
 
-Spróbuj dokarmić zakwas jeszcze raz. Jeśli przez **16 godzin dalej nie bąbelkuje** to spróbuj jeszcze raz. Jeśli dalej nie staje się aktywny, to znaczy że zakwas się popsuł i musisz [zdobyć nowy](#skad-mogę-wziąc-zakwas).
+Spróbuj dokarmić zakwas jeszcze raz. Jeśli przez **16 godzin dalej nie bąbelkuje** to spróbuj jeszcze raz. Jeśli dalej nie staje się aktywny, to znaczy że zakwas się popsuł i musisz [zdobyć nowy](#skąd-mogę-wziąć-zakwas).
 
 -----
 
-#### Co zrobić z zakwasem jak nie piekę chleba?
+#### Co mogę zrobić z zakwasem jak nie piekę chleba?
 
 Jeśli dokarmiasz zakwas i nie pieczesz chleba (albo po prostu zostały Ci resztki zakwasu) to możesz wymieszać je z **1 jajkiem i podmażyć na patelni**. Powstanie bardzo smaczna potrawa w smaku przypominająca pierogi leniwe. Polecam z masłem i cukrem!
 
