@@ -2,7 +2,7 @@
 layout: post
 image:  assets/images/blog/2020-06-11-szakszuka/szakszuka.jpg
 title: Szakszuka
-description: Przepis na szakszukę. Są dwa sekrety idealnej Szakszuki. Po pierwsze, długie duszenie warzyw. Po drugie, przyprawy! Zobacz, jak przygotować sprawdzony przepis na Szakszuka. Najlepszy i najbardziej aromatyczny przepis na szakszukę. Jajka w sosie pomidorowym ze świeżych pomidorów. Pomysł na śniadanie.
+description: Przepis na szakszukę. Są dwa sekrety idealnej szakszuki. Po pierwsze, długie duszenie warzyw. Po drugie, przyprawy! Zobacz, jak przygotować sprawdzony przepis na szakszuka. Najlepszy i najbardziej aromatyczny przepis na szakszukę. Jajka w sosie pomidorowym ze świeżych pomidorów. Pomysł na śniadanie.
 categories: nie-chleby
 source-title: Poezja Smaku (Shakshouka – jajka w pomidorach)
 source-link: https://www.poezja-smaku.pl/shakshouka-szakszuka-jajka-w-pomidorach/
@@ -11,7 +11,7 @@ when-to-start: 1.5 godziny przed podaniem
 
 -----
 
-Szakszuka (*Shakshouka*) to danie składające się z jajek sadzonych w sosie na bazie pomidorów, papryki, cebuli i orientalnych przypraw. Danie powstało dawno temu w kulturze Maghrebu, ale przez ostatnie lata weszło do kanonu śniadaniowego właściwie całego świata. W idealnej Szakszuce białko jajek z wierzchu jest ścięte, a żółtko po przebiciu rozlewa się i miesza z sosem. Są jeszcze dwa sekretne kroki, które sprawiają, że poniższy przepis wynosi Szakszukę na wyższy poziom kulinarny. Po pierwsze, sos musi być długo duszony (przez około godzinę), żeby wszystkie warzywa były zupełnie miękkie. Po drugie, przyprawy! Ja używam mieszanki przypraw "Etiopskie Berbere" i nic nie jest w stanie przebić tego smaku!
+Szakszuka (*Shakshouka*) to danie składające się z jajek sadzonych w sosie na bazie pomidorów, papryki, cebuli i orientalnych przypraw. Danie powstało dawno temu w kulturze Maghrebu, ale przez ostatnie lata weszło do kanonu śniadaniowego właściwie całego świata. W idealnej szakszuce białko jajek z wierzchu jest ścięte, a żółtko po przebiciu rozlewa się i miesza z sosem. Są jeszcze dwa sekretne kroki, które sprawiają, że poniższy przepis wynosi szakszukę na wyższy poziom kulinarny. Po pierwsze, sos musi być długo duszony (przez około godzinę), żeby wszystkie warzywa były zupełnie miękkie. Po drugie, przyprawy! Ja używam mieszanki przypraw "Etiopskie Berbere" i nic nie jest w stanie przebić tego smaku!
 
 -----
 
