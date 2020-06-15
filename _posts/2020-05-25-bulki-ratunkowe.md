@@ -21,7 +21,7 @@ TODO
 ##### Bułki
 
 * 200 g mąki pszennej luksusowej (typ 550)
-* łyżeczka (4 g) proszu do pieczenia
+* 1 płaska łyżeczka (3 g) proszu do pieczenia
 * 1/2 łyżeczki soli
 * 130 g jogurtu
 * 2 łyżki oliwy z oliwek
@@ -47,6 +47,8 @@ TODO
 -----
 
 ## Przepis szczegółowy
+
+* Naciąć głębkowo (ok. 1 cm)
 
 TODO
 
