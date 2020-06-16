@@ -22,10 +22,9 @@ TODO
 
 * 200 g mąki pszennej luksusowej (typ 550)
 * 1 płaska łyżeczka (3 g) proszu do pieczenia
-* 1/2 łyżeczki soli
-* 130 g jogurtu
+* 1 płaska łyżeczka (5 g) soli
+* 150 g jogurtu
 * 2 łyżki oliwy z oliwek
-* 2 łyżki mleka
 
 ##### Dodatkowo
 
