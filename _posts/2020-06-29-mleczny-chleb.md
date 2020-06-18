@@ -13,7 +13,7 @@ when-to-start: wieczorem przed porannym wypiekiem
 
 -----
 
-Słodki mleczny chleb. Idealny do słodkich past i domowych konfitur. Dzieci go uwielbiają! Chleby tego typu są bardzo popularne w Azji, ten przepis jest dokładniej z Hong Kongu. W Polsce chleby tego typu są często niedoceniane, ale na prawdę warto go spróbować jako odmiany do typowo wytrawnych wypieków. Jest dekoracyjnie piękny i można go rwać ręką, zamiast kroić, co na pewno wprowadzi ciekawe urozmaicenia do codziennych kanapek. Dobrych wypieków!
+Słodki mleczny chleb. Idealny do domowych konfitur i słodkich past. Uwielbiany przez dzieci! Chleby tego typu są bardzo popularne w Azji, a w Polsce często niedoceniane. Ten przepis jest dokładnie z Hong Kong i na prawdę warto go spróbować jako ciekawej odmiany od typowo wytrawnych wypieków. Jest dekoracyjnie piękny i można go rwać ręką, co wprowadza urozmaicenia do codziennych ciętych kanapek. Wspaniałych wypieków!
 
 -----
 
@@ -44,8 +44,9 @@ Słodki mleczny chleb. Idealny do słodkich past i domowych konfitur. Dzieci go 
 5. Rano podziel na **16 części** i rozwałkuj na **prostokąty 6 cm x 10 cm**
 6. Złóż każdy prostokąt na **3 części wzdłuż krótszego boku** i umieść w formie
 7. Odstaw na **60 minut**
-8. Posmaruj chleb rozbełtanych **jajkiem z łyżką wody**
+8. Posmaruj chleb rozbełtanym **jajkiem z łyżką wody**
 9. Piecz **20 minut** w temperaturze **180 stopni**
+10. Przełóż na **kratkę kuchenną**
 
 -----
 
@@ -62,19 +63,20 @@ Słodki mleczny chleb. Idealny do słodkich past i domowych konfitur. Dzieci go 
 
 ![Mleczny chleb z Hong Kongu - Kulki](/assets/images/blog/2020-06-29-mleczny-chleb/mleczny-chleb-kulki.jpg)
 
-6\. Złóż prostokąt na **3 części wzdłuż krótszego boku**. Powinien uformować się pasek o długości 10 cm i wysokości 2 cm. Przełóż go do silikonowej (lub metalowej) formy.
+6\. Złóż prostokąt na **3 części wzdłuż krótszego boku**. Powinien uformować się pasek o długości 10 cm i wysokości 2 cm. Przełóż go do silikonowej (lub metalowej) formy. Powtórz to samo dla wszystkich 16 części.
 
 ![Mleczny chleb z Hong Kongu - Formowanie](/assets/images/blog/2020-06-29-mleczny-chleb/mleczny-chleb-formowanie.jpg)
 
 7\. Odstaw do wyrośnięcia na **60 minut** w temperaturze pokojowej.\\
-
 8\. Wymieszaj **jajko z łyżką wody** i posmaruj nimi chleb.
 
 ![Mleczny chleb z Hong Kongu - Smarowanie](/assets/images/blog/2020-06-29-mleczny-chleb/mleczny-chleb-smarowanie.jpg)
 
-9\. Nagrzej piekarnik do **180 stopni**, przełóż formę z chlebem i piecz przez **20 minut**. Po wyciągnięciu z piekarnika przełóż na kratkę kuchenną do wystygnięcia.
+9\. Nagrzej piekarnik do **180 stopni**, przełóż formę z chlebem i piecz przez **20 minut**.
 
 ![Mleczny chleb z Hong Kongu - Pieczenie](/assets/images/blog/2020-06-29-mleczny-chleb/mleczny-chleb-pieczenie.jpg)
+
+10\. Po upieczeniu wyciągnij z piekarnika i umieść na **kratce kuchennej**, aby spokojnie wystygł.
 
 ![Mleczny chleb z Hong Kongu](/assets/images/blog/2020-06-29-mleczny-chleb/mleczny-chleb-gotowy.jpg)
 
