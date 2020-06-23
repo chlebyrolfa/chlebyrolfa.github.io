@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2020-06-20-chleb-potrojnie-zytni/chleb-potrojnie-zytni-2-2.jpg
+image:  assets/images/blog/2020-06-20-chleb-potrojnie-zytni/chleb-potrojnie-zytni-2-1.jpg
 title: Chleb potrójnie żytni
 description: "Chleb potrójnie żytni: za zakwasie żytnim, z mąki żytniej chlebowej, z mąki żytniej razowej. Najzdrowszy rodzaj pieczywa, ma bardzo charakterystyczny smak, długo zachowuje świeżość."
 tags: zakwas prosty forma wege
@@ -70,5 +70,3 @@ Chleb potrójnie żytni: za zakwasie żytnim, z mąki żytniej chlebowej, z mąk
 
 
 ![Chleb potrójnie żytni](/assets/images/blog/2020-06-20-chleb-potrojnie-zytni/chleb-potrojnie-zytni-gotowy.jpg)
-
-![Chleb potrójnie żytni](/assets/images/blog/2020-06-20-chleb-potrojnie-zytni/chleb-potrojnie-zytni-gotowy-drugi.jpg)
