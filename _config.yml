@@ -13,8 +13,6 @@ future: true
 lang: pl_PL
 locale: pl_PL
 excerpt_separator: LF
-feed:
-  path: feed.xml
 
 # Plugins
 plugins:
