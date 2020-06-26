@@ -92,6 +92,13 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/">Chleby</a>
                 </li>
+                {% if page.url == "/prawie-chleby" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/prawie-chleby">Prawie-chleby</a>
+                </li>
                 {% if page.url == "/nie-chleby" %}
                 <li class="nav-item active">
                 {% else %}
@@ -108,6 +115,9 @@ ga('send', 'pageview');
                 </li>
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.instagram.com/chlebyrolfa/"><i class="fab fa-instagram"></i></a>
+                </li>
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss"></i></a>
                 </li>
 
             </ul>
@@ -130,7 +140,7 @@ ga('send', 'pageview');
 <div class="main-content">
     {{ content }}
 </div>
-    
+  
 </div>
 
 <!-- Begin Footer
