@@ -14,7 +14,7 @@ when-to-start: wieczorem przed porannym wypiekiem
 
 -----
 
-Słodki mleczny chleb. Idealny do domowych konfitur i słodkich past. Uwielbiany przez dzieci! Chleby tego typu są bardzo popularne w Azji, a w Polsce często niedoceniane. Ten przepis jest dokładnie z Hong Kong i na prawdę warto go spróbować jako ciekawej odmiany od typowo wytrawnych wypieków. Jest dekoracyjnie piękny i można go rwać ręką, co wprowadza urozmaicenia do codziennych ciętych kanapek. Wspaniałych wypieków!
+Słodki mleczny chleb. Idealny do domowych konfitur i słodkich past. Uwielbiany przez dzieci! Chleby tego typu są bardzo popularne w Azji, a w Polsce często niedoceniane. Ten przepis jest dokładnie z Hong Kongu i na prawdę warto go spróbować jako ciekawej odmiany od typowo wytrawnych wypieków. Jest bardzo dekoracyjny i można go rwać ręką, co wprowadza urozmaicenie do codziennych ciętych kanapek. Wspaniałych wypieków!
 
 -----
 
