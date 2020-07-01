@@ -5,14 +5,18 @@
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
-                {% if post.image %}
-
+                {% if post.image-small %}
+                    {% if site.lazyimages == "enabled" %}
+                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image-small contains "://" %}{{ post.image-small }}{% else %}{{ site.baseurl }}/{{ post.image-small }}{% endif %}" alt="{{ post.title }}">
+                    {% else %}
+                        <img class="img-fluid" src="{% if post.image-small contains "://" %}{{ post.image-small }}{% else %}{{ site.baseurl }}/{{ post.image-small }}{% endif %}" alt="{{ post.title }}"> 
+                    {% endif %}
+                {% elsif post.image %}
                     {% if site.lazyimages == "enabled" %}
                         <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
                     {% else %}
                         <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}"> 
                     {% endif %}
-
                 {% endif %}
             </a>
         </div>
@@ -28,40 +32,67 @@
             <div class="wrapfooter">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-2 pl-1">
                         {% if post.tags contains "bardzo-prosty" %}
+                        <div class="col-2 pl-1">
                             <span class="post-icon"><img src="/assets/images/difficulty-1.png" title="Trudność: bardzo prosty"></span>
+                        </div>
                         {% elsif post.tags contains "prosty" %}
+                        <div class="col-2 pl-1">
                             <span class="post-icon"><img src="/assets/images/difficulty-2.png" title="Trudność: prosty"></span>
+                        </div>
                         {% elsif post.tags contains "sredniotrudny" %}
+                        <div class="col-2 pl-1">
                             <span class="post-icon"><img src="/assets/images/difficulty-3.png" title="Trudność: średni"></span>
+                        </div>
                         {% elsif post.tags contains "trudny-przepis" %}
+                        <div class="col-2 pl-1">
                             <span class="post-icon"><img src="/assets/images/difficulty-4.png" title="Trudność: trudny"></span>
-                        {% endif %}
                         </div>
-                        <div class="col-2 pl-0">
+                        {% endif %}
+
                         {% if post.tags contains "zakwas" %}
-                            <span class="post-icon"><img src="/assets/images/sourdough.png" title="Wypiek na zakwasie"></span>
-                        {% elsif post.tags contains "drozdze" %}
-                            <span class="post-icon"><img src="/assets/images/yeast.png" title="Wypiek na drożdżach"></span>
-                        {% endif %}
-                        </div>
                         <div class="col-2 pl-0">
-                        {% if post.tags contains "forma" %}
-                            <span class="post-icon"><img src="/assets/images/baking-pan.png" title="Użyj formy"></span>
-                        {% elsif post.tags contains "kamien" and post.tags contains "blacha" %}
-                            <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj kamienia lub blachy"></span>
-                        {% elsif post.tags contains "kamien" %}
-                           <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj kamienia"></span>
-                        {% elsif post.tags contains "blacha" %}
-                            <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj blachy"></span>
-                        {% elsif post.tags contains "garnek" %}
-                            <span class="post-icon"><img src="/assets/images/dutch-oven.png" title="Użyj garnka żeliwnego"></span>
-                        {% elsif post.tags contains "patelnia" %}
-                            <span class="post-icon"><img src="/assets/images/frying-pan.png" title="Użyj patelni"></span>
-                        {% endif %}
+                            <span class="post-icon"><img src="/assets/images/sourdough.png" title="Wypiek na zakwasie"></span>
                         </div>
-                         <div class="col-6 pr-0">
+                        {% elsif post.tags contains "drozdze" %}
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/yeast.png" title="Wypiek na drożdżach"></span>
+                        </div>
+                        {% endif %}
+
+                        {% if post.tags contains "forma" %}
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/baking-pan.png" title="Użyj formy"></span>
+                        </div>
+                        {% elsif post.tags contains "kamien" and post.tags contains "blacha" %}
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj kamienia lub blachy"></span>
+                        </div>
+                        {% elsif post.tags contains "kamien" %}
+                        <div class="col-2 pl-0">
+                        <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj kamienia"></span>
+                        </div>
+                        {% elsif post.tags contains "blacha" %}
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj blachy"></span>
+                        </div>
+                        {% elsif post.tags contains "garnek" %}
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/dutch-oven.png" title="Użyj garnka żeliwnego"></span>
+                        </div>
+                        {% elsif post.tags contains "patelnia" %}
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/frying-pan.png" title="Użyj patelni"></span>
+                        </div>
+                        {% endif %}
+
+                        {% if post.tags contains "wege" %}
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/vegan.png" title="Przepis wegański"></span>
+                        </div>
+                        {% endif %}
+                        
+                        <div class="col pr-0">
                             <span class="post-date postbox-date">{{ post.date | date: "%d.%m.%Y" }}</span>
                         </div>
                     </div>

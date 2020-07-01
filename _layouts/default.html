@@ -92,6 +92,13 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/">Chleby</a>
                 </li>
+                {% if page.url == "/prawie-chleby" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/prawie-chleby">Prawie-chleby</a>
+                </li>
                 {% if page.url == "/nie-chleby" %}
                 <li class="nav-item active">
                 {% else %}
@@ -108,6 +115,9 @@ ga('send', 'pageview');
                 </li>
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.instagram.com/chlebyrolfa/"><i class="fab fa-instagram"></i></a>
+                </li>
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss"></i></a>
                 </li>
 
             </ul>
@@ -130,7 +140,23 @@ ga('send', 'pageview');
 <div class="main-content">
     {{ content }}
 </div>
-    
+
+{% if site.mailchimp-list %}
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}" height="25"> &nbsp; &nbsp; &nbsp; Zapisz się do newslettera</span>
+        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+            <input type="submit" value="Zapisz się" name="subscribe" class="heart">
+            </div>
+        </form>
+	</div>
+</div>
+{% endif %}
+  
 </div>
 
 <!-- Begin Footer
