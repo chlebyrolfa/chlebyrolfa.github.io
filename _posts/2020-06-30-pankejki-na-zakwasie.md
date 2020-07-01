@@ -1,7 +1,7 @@
 ---
 layout: post
 image:  assets/images/blog/2020-06-30-pankejki-na-zakwasie/pankejki-na-zakwasie.jpg
-image-small:  assets/images/blog/2020-06-30-pankejki-na-zakwasie/pankejki-na-zakwasie.jpg
+image-small:  assets/images/blog/2020-06-30-pankejki-na-zakwasie/pankejki-na-zakwasie-small.jpg
 title: Pankejki na zakwasie
 description: Przepis na pankejki na zakwasie. Zdrowe puszyste placki na zakwasie, które można podać z ulubionymi dodatkami. Szybkie danie śniadaniowe utrzymane w duchu zero waste.
 tags: zakwas prosty patelnia proszek-do-pieczenia
