@@ -8,13 +8,12 @@ tags: zakwas prosty patelnia proszek-do-pieczenia
 categories: prawie-chleby
 source-title: VitaLivesFree (Fluffy Sourdough Pancake Recipe)
 source-link: https://youtu.be/JLXkCXHO3s4
-when-to-start: wieczorem poprzedniego dnia
 amount: 14-16 pankejków
 ---
 
 -----
 
-Pankejki na zakwasie są przepyszne! Puszyste, lekkie, z delikatnie kwaskowatym posmakiem. Idealnie pasują do truskawek, malin, jagód i w ogóle wszystkich owoców. Do tego syrop klonowy albo bita śmietana i na prawdę nic więcej w życiu nie trzeba! Różnią się od zwykłych pankejków tym, że podstawą jest [zakwas żytnio-pszenny]({{ site.baseurl }}/zakwas) zamiast zykłej mąki. Możesz taki zakwas specjalnie przygotować albo zużyć taki, który akurat i tak musisz dokarmić. Zamiast wyrzucać, zużyj do pankejków. Wszystko w duchu zero waste!
+Pankejki na zakwasie są przepyszne! Puszyste, lekkie, z delikatnie kwaskowatym posmakiem. Idealnie pasują do truskawek, malin, jagód i w ogóle wszystkich owoców. Do tego syrop klonowy albo bita śmietana i na prawdę nic więcej w życiu nie trzeba! Różnią się od zwykłych pankejków tym, że podstawą jest [zakwas żytnio-pszenny]({{ site.baseurl }}/zakwas) zamiast zwykłej mąki. Możesz taki zakwas specjalnie przygotować albo zużyć taki, który akurat i tak musisz dokarmić. Zamiast wyrzucać, zużyj do pankejków. Wszystko w duchu zero waste!
 
 -----
 
@@ -31,7 +30,7 @@ Pankejki na zakwasie są przepyszne! Puszyste, lekkie, z delikatnie kwaskowatym 
 
 * zakwas
 * 2 jajka
-* 1 torebka (16 g) cukru waniliowego
+* 1 torebka cukru waniliowego (16 g)
 * 1/2 łyżeczki soli
 * 1/2 łyżeczki sody oczyszczonej
 * 2 łyżeczki proszku do pieczenia
@@ -67,11 +66,11 @@ Na przykład, hodujesz zakwas w słoiku 150 g. Wtedy rano odkładasz do miski 13
 
 ![Pankejki na zakwasie - Składniki](/assets/images/blog/2020-07-05-pankejki-na-zakwasie/pankejki-na-zakwasie-skladniki.jpg)
 
-3\. **Wymieszaj** wszystko **rózgą**. Masa powinna być dobrze romieszana, ale mieszaj delikatnie, żeby wyrośnięty zakwas nie opadł i dalej był puszysty.
+3\. **Wymieszaj** wszystko **rózgą**. Masa powinna być dobrze rozmieszana, ale mieszaj delikatnie, żeby wyrośnięty zakwas nie opadł i dalej był puszysty.
 
 ![Pankejki na zakwasie - Masa](/assets/images/blog/2020-07-05-pankejki-na-zakwasie/pankejki-na-zakwasie-masa.jpg)
 
-4\. Rozgrzej **patelnię z olejem** i kiedy będzie gorąca to zetrzyj olej ręcznikiem papierowym. Chcesz, żeby patelnia była śliska, ale pankejki były smażone bez oleju.
+4\. Rozgrzej **patelnię z olejem** i kiedy będzie gorąca to zetrzyj olej ręcznikiem papierowym. Chodzi o to, żeby patelnia była śliska, ale pankejki były smażone bez oleju.
 
 5\. **Nakładaj ciasto** łyżką. Na dużej patelni powinny zmieścić się trzy pankejki. **Smaż z jednej strony**, aż z góry będzie widać bąbelki powietrza, a z dołu pankejk będzie przyrumieniony. Wtedy **obróć na drugą stronę** i **smaż do zarumienienia**.
 
