@@ -2,6 +2,7 @@
 Template Name: Mediumish 
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
+Use https://cssminifier.com/ to minify and generate `minified_screen.css`
 */
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
@@ -61,6 +62,14 @@ section {
 
 section.recent-posts {
     margin-bottom: 0;
+}
+
+.section-title h1 {
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    margin-bottom: 27px;
 }
 
 .section-title h2 {
@@ -425,6 +434,7 @@ span.post-read-more a:hover {
     height: 19px;
     padding-right:5px;
     padding-bottom:2px;
+    min-width: 0;
 }
 
 blockquote {
@@ -442,6 +452,7 @@ blockquote {
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
+    min-width: 100%;
 }
 
 .share {
@@ -813,6 +824,14 @@ h6 {
 
 .article-post h5 {
     font-size: 1.0rem;
+}
+
+.article-post img {
+    min-width: 100%;
+}
+
+.article-post .intro-icon img {
+    min-width: 0;
 }
 
 .article-post img.shadow {
