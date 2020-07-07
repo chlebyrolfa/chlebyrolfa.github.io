@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2020-06-24-bajgle/bajgle-1.jpg
+image:  assets/images/blog/2020-06-24-bajgle/bajgle-3.jpg
 title: Bajgle
 description: Przepis na tradycyjne bajgle nowojorskie. Z dziurką w środku, posypane sezamem. Często są mylone z obwarzankami. Mają mocno chrupiącą skórkę i miękki miąższ.
 tags: chleby-swiata drozdze sredniotrudny blacha wege
