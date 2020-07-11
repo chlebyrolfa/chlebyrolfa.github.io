@@ -1,0 +1,29 @@
+---
+layout: default
+title: Nie-chleby
+permalink: /nie-chleby
+---
+
+<section class="recent-posts">
+    <div class="section-title">
+        <h1><span>Nie-chleby</span></h1>
+    </div>
+    <div class="row listrecent"> 
+
+    {% for post in site.posts %}
+        {% if post.categories contains "nie-chleby" %}
+            {% include postbox.html %}
+        {% endif %}
+    {% endfor %}
+    
+    </div>
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>

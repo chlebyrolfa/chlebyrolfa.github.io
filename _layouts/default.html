@@ -4,39 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/assets/images/icons/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/assets/images/icons/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/assets/images/icons/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl }}/assets/images/icons/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}/assets/images/icons/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl }}/assets/images/icons/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/assets/images/icons/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}/assets/images/icons/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/images/icons/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="{{ site.baseurl }}/assets/images/icons/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl }}/assets/images/icons/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/icons/favicon-16x16.png">
-<link rel="manifest" href="{{ site.baseurl }}/assets/images/icons/manifest.json">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{ site.baseurl }}/assets/images/icons/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
-
 {% if page.title %}
 <title>{{ page.title }} | {{site.name}}</title>
 {% else %}
-<title>{{site.name}}</title>
+<title>{{site.title}}</title>
 {% endif %}
 
 {% seo title=false %}
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    
-<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
-
-<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+{% include og.html %}
 
 </head>
 
@@ -56,7 +32,7 @@ ga('send', 'pageview');
 <body class="{{layout}}">
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
-		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	</noscript>
 
@@ -92,6 +68,33 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/">Chleby</a>
                 </li>
+                {% if page.url == "/prawie-chleby" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/prawie-chleby">Prawie-chleby</a>
+                </li>
+                {% if page.url == "/nie-chleby" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/nie-chleby">Nie-chleby</a>
+                </li>
+                {% if page.url == "/zakwas" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/zakwas">Zakwas</a>
+                </li>
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://www.instagram.com/chlebyrolfa/"><i class="fab fa-instagram"></i></a>
+                </li>
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss"></i></a>
+                </li>
 
             </ul>
 
@@ -113,7 +116,23 @@ ga('send', 'pageview');
 <div class="main-content">
     {{ content }}
 </div>
-    
+
+{% if site.mailchimp-list %}
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.name}}" height="25"> &nbsp; &nbsp; &nbsp; Zapisz się do newslettera</span>
+        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+            <input type="submit" value="Zapisz się" name="subscribe" class="heart">
+            </div>
+        </form>
+	</div>
+</div>
+{% endif %}
+  
 </div>
 
 <!-- Begin Footer
@@ -134,6 +153,37 @@ ga('send', 'pageview');
 ================================================== -->
 
 </div> <!-- /.site-content -->
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+{% if site.minified_css %}
+<link href="{{ site.baseurl }}/assets/css/minified_screen.css" rel="stylesheet">
+{% else %}
+<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
+{% endif %}
+
+<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
+<!-- Non-critical links -->
+<link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/assets/images/icons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/assets/images/icons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/assets/images/icons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl }}/assets/images/icons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}/assets/images/icons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl }}/assets/images/icons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/assets/images/icons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}/assets/images/icons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/images/icons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ site.baseurl }}/assets/images/icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl }}/assets/images/icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/icons/favicon-16x16.png">
+<link rel="manifest" href="{{ site.baseurl }}/assets/images/icons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="{{ site.baseurl }}/assets/images/icons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 
 <!-- Scripts
 ================================================== -->

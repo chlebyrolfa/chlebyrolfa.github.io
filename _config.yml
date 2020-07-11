@@ -1,18 +1,19 @@
 # Site
-name: "Chleby Rolfa"
-title: "Chleby Rolfa"
-description: "Przepisy krok po kroku, gotowe na śniadanie, bez wstawania w środku nocy. Jak upiec chleb w domu? Świeżutki, pachnący, chrupiący, na zakwasie i na drożdżach, z rozmaitymi ziołami, ziarnami i przyprawami. Swoista akademia piekarza i warsztaty chlebowe. Znajdź przepis na chleb, który łatwo upieczesz w swojej kuchni."
+name: "Chleby Rolfa | Przepis"
+title: "Chleby Rolfa | Przepis krok po kroku"
+description: "Przepisy krok po kroku, gotowe na śniadanie, bez wstawania w środku nocy. Jak upiec chleb w domu? Świeżutki, pachnący, chrupiący, na zakwasie i na drożdżach."
 logo: 'assets/images/icons/logo.png'
 favicon: 'assets/images/icons/logo.png'
 baseurl:
 google_analytics: 'UA-164126054-1'
 disqus: 'chlebyrolfa'
+mailchimp-list: 'https://chlebyrolfa.us10.list-manage.com/subscribe/post?u=8ed4c03298a0bf66a9f4206f6&amp;id=a250c2380c'
 include: ["_pages"]
 permalink: /:title/
 future: true
 lang: pl_PL
 locale: pl_PL
-excerpt_separator: LF
+excerpt_separator: "## Składniki"
 
 # Plugins
 plugins:
@@ -23,7 +24,7 @@ plugins:
   - jekyll-archives
     
 # Pagination 
-paginate: 12
+paginate: 15
 paginate_path: /page/:num/
     
 # Other
@@ -39,4 +40,8 @@ kramdown:
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
+minified_css: true
+
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+see_also: true
