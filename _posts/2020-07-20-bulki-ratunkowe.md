@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2020-05-25-bulki-ratunkowe/bulki-ratunkowe-bez-wyrastania.jpg
+image:  assets/images/blog/2020-07-20-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania.jpg
 title: Bułki ratunkowe (bez wyrastania)
 description: Szybkie pieczywo na śniadanie? Ekspresowe bułki bez drożdży (na proszku do pieczenia). Zapraszam po super prosty przepis na domowe bułki bez drożdży i bez zakwasu.
 tags: proszek prosty blacha
@@ -56,4 +56,4 @@ Zapomniałeś o śniadaniu? Żona jest głodna, dziecko płacze, a za oknem nied
 6\. Posmaruj bułeczki **mlekiem** (albo oliwą z oliwek) i opcjonalnie **posyp sezamem**. Jeśli lubisz, możesz też posypać innymi nasionami: słonecznikiem, czernuszką, itp.\\
 7\. Rozgrzej piekarnik do temperatury **180 stopni**, następnie włóż blachę i piecz bułeczki przez **30 minut**. Powinny być rumiane i chrupiące z góry.
 
-![Bułki ratunkowe bez wyrastania](/assets/images/blog/2020-05-25-bulki-ratunkowe/bulki-ratunkowe-bez-wyrastania-gotowe.jpg)
+![Bułki ratunkowe bez wyrastania](/assets/images/blog/2020-07-20-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-gotowe.jpg)
