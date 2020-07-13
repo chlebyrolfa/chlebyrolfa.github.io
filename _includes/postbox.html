@@ -58,6 +58,10 @@
                         <div class="col-2 pl-0">
                             <span class="post-icon"><img src="/assets/images/yeast.png" title="Wypiek na drożdżach" alt="Wypiek na drożdżach"></span>
                         </div>
+                        {% elsif post.tags contains "proszek" %}
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/baking-powder.png" title="Wypiek na proszku do pieczenia" alt="Wypiek na proszku do pieczenia"></span>
+                        </div>
                         {% endif %}
 
                         {% if post.tags contains "forma" %}
