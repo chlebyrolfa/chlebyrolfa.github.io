@@ -51,10 +51,16 @@ Zapomniałeś o śniadaniu? Żona jest głodna, dziecko płacze, a za oknem nied
 
 1\. W misce wymieszaj łyżką wszystkie **sypkie składniki na bułki**: mąkę, proszek do pieczenia i sól.\\
 2\. Dodaj **jogurt i oliwę**. Wymieszaj najpierw łyżka, a następnie przełóż na blat i **zagnieć** ciasto ręką, żeby powstała jednolita masa. Alternatywnie możesz wyrabiać ciasto hakiem przez 2-3 minuty.\\
-3\. Podziel ciasto na **6 równych części** i uformuj okrągłe bułki. Gdyby ciasto się kleiło, możesz delikatnie podsypać mąką.\\
+3\. Podziel ciasto na **6 równych części** i uformuj okrągłe bułki. Gdyby ciasto się kleiło, możesz delikatnie podsypać mąką.
+
+![Bułki ratunkowe bez wyrastania - formowanie](/assets/images/blog/2020-07-16-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-formowanie.jpg)
+
 4\. Przełóż bułeczki na **blachę** wyłożoną papierem do pieczenia.\\
 5\. Każdą z bułeczek **natnij** nożem (albo żyletką) w środku na głębokość około 1 cm.\\
-6\. Posmaruj bułeczki **mlekiem** (albo oliwą z oliwek) i opcjonalnie **posyp sezamem**. Jeśli lubisz, możesz też posypać innymi nasionami: słonecznikiem, czernuszką, itp.\\
+6\. Posmaruj bułeczki **mlekiem** (albo oliwą z oliwek) i opcjonalnie **posyp sezamem**. Jeśli lubisz, możesz też posypać innymi nasionami: słonecznikiem, czernuszką, itp.
+
+![Bułki ratunkowe bez wyrastania - blacha](/assets/images/blog/2020-07-16-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-blacha.jpg)
+
 7\. Rozgrzej piekarnik do temperatury **180 stopni**, następnie włóż blachę i piecz bułeczki przez **30 minut**. Powinny być rumiane i chrupiące z góry.
 
 ![Bułki ratunkowe bez wyrastania](/assets/images/blog/2020-07-16-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-gotowe.jpg)
