@@ -13,7 +13,7 @@ amount: 14-16 pankejków
 
 -----
 
-Pankejki na zakwasie są przepyszne! Puszyste, lekkie, z delikatnie kwaskowatym posmakiem. Idealnie pasują do truskawek, malin, jagód i w ogóle wszystkich owoców. Do tego syrop klonowy albo bita śmietana i na prawdę nic więcej w życiu nie trzeba! Różnią się od zwykłych pankejków tym, że podstawą jest [zakwas żytnio-pszenny]({{ site.baseurl }}/zakwas) zamiast zwykłej mąki. Możesz taki zakwas specjalnie przygotować albo zużyć taki, który akurat i tak musisz dokarmić.. Zamiast wyrzucać, zużyj do pankejków. Wszystko w duchu zero waste!
+Pankejki na zakwasie są przepyszne! Puszyste, lekkie, z delikatnie kwaskowatym posmakiem. Idealnie pasują do truskawek, malin, jagód i w ogóle wszystkich owoców. Do tego syrop klonowy albo bita śmietana i na prawdę nic więcej w życiu nie trzeba! Różnią się od zwykłych pankejków tym, że podstawą jest [zakwas żytnio-pszenny]({{ site.baseurl }}/zakwas) zamiast zwykłej mąki. Możesz taki zakwas specjalnie przygotować albo zużyć taki, który akurat i tak musisz dokarmić. Zamiast wyrzucać, zużyj do pankejków. Wszystko w duchu zero waste!
 
 -----
 
