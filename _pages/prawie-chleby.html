@@ -2,6 +2,9 @@
 layout: default
 title: Prawie-chleby
 permalink: /prawie-chleby
+pagination: 
+  enabled: true
+  category: prawie-chleby
 ---
 
 <section class="recent-posts">
@@ -11,9 +14,7 @@ permalink: /prawie-chleby
     <div class="row listrecent"> 
 
     {% for post in site.posts %}
-        {% if post.categories contains "prawie-chleby" %}
-            {% include postbox.html %}
-        {% endif %}
+        {% include postbox.html %}
     {% endfor %}
     
     </div>
