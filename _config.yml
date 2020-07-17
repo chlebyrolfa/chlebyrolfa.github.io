@@ -17,15 +17,20 @@ excerpt_separator: "## Składniki"
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
-# Pagination 
-paginate: 15
-paginate_path: /page/:num/
+   
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  sort_reverse: true
+  per_page: 12
+  permalink: '/page/:num/'
+  category: 'posts'
     
 # Other
 markdown: kramdown
