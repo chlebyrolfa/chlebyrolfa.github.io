@@ -5,7 +5,21 @@
     <description>Przepisy krok po kroku, gotowe na śniadanie, bez wstawania w środku nocy. Jak upiec chleb w domu? Świeżutki, pachnący, chrupiący, na zakwasie i na drożdżach.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jul 2020 13:04:32 +0000</pubDate>
+    <pubDate>Fri, 17 Jul 2020 18:03:08 +0000</pubDate>
+    
+      <item>
+        <title>Bułki ratunkowe (bez wyrastania)</title>
+        
+          <description>Zapomniałeś o śniadaniu? Żona jest głodna, dziecko płacze, a za oknem niedziela handlowa? Taki był właśnie pierwszy raz kiedy upiekłem bułeczki ratunkowe. Ale potem piekłem je jeszcze wiele razy, tak po prostu. Bułeczki wyrastają na proszku do pieczenia, a nie na drożdżach czy zakwasie, więc nie potrzebują czasu na fermetację. Dlatego można je piec od razu po uformowaniu ciasta. Często spotykałem się z podawaniem ich do kolacji czy obiadu, ale ja najczęściej piekę je na śniadanie. Są małe i bardzo smaczne. Chrupiące na zewnątrz, miękkie w środku i zachowują świeżość przez cały dzień.</description>
+        
+        
+          <media:content url="/assets/images/blog/2020-07-17-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-small.jpg" medium="image" width="600"/>
+        
+        <!-- pubDate is the end of the day -->
+        <pubDate>Fri, 17 Jul 2020 23:59:59 +0000</pubDate>
+        <link>/bulki-ratunkowe/</link>
+        <guid isPermaLink="true">/bulki-ratunkowe/</guid>
+      </item>
     
       <item>
         <title>Bajgle</title>
@@ -131,20 +145,6 @@
         <pubDate>Sun, 17 May 2020 23:59:59 +0000</pubDate>
         <link>/japonski-chleb-matcha/</link>
         <guid isPermaLink="true">/japonski-chleb-matcha/</guid>
-      </item>
-    
-      <item>
-        <title>Chleb podstawowy</title>
-        
-          <description>Pierwszy chleb, jaki upiekłem w życiu. Polecił mi go mój kolega, który podzielił się też ze mną zakwasem. Chleb jest przepyszny i bardzo tolerancyjny na wszystkie niedokładności i zmiany. Zawsze wychodzi świetny, a jego przygotowanie nie wymaga wiele czasu, dlatego polecam go szczególnie tym, którzy rozpoczynają swoją przygodę z wypiekaniem chleba. Można dowolnie mieszać mąki - mogą być razowe, mogą być z dodatkiem mąki orkiszowej albo gryczanej. Do tego polecam dodać też ziarna słonecznika lub pestki dyni.</description>
-        
-        
-          <media:content url="/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-small.jpg" medium="image" width="600"/>
-        
-        <!-- pubDate is the end of the day -->
-        <pubDate>Mon, 11 May 2020 23:59:59 +0000</pubDate>
-        <link>/chleb-podstawowy/</link>
-        <guid isPermaLink="true">/chleb-podstawowy/</guid>
       </item>
     
   </channel>
