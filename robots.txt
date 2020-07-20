@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: www.chlebyrolfa.pl/sitemap.xml
