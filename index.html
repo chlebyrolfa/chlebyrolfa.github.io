@@ -1,5 +1,8 @@
 ---
 layout: default
+pagination: 
+  enabled: true
+  category: chleby
 ---
 
 <!-- Posts Index
@@ -20,9 +23,7 @@ layout: default
     <div class="row listrecent"> 
 
     {% for post in paginator.posts %}
-        {% if post.categories contains "chleby" %}
-            {% include postbox.html %}
-        {% endif %}
+        {% include postbox.html %}
     {% endfor %}
     
     </div>

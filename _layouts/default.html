@@ -61,21 +61,21 @@ ga('send', 'pageview');
 
             <ul class="navbar-nav ml-auto">
 
-                {% if page.url == "/" %}
+                {% if page.url == "/index.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/">Chleby</a>
                 </li>
-                {% if page.url == "/prawie-chleby" %}
+                {% if page.url == "/prawie-chleby/index.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/prawie-chleby">Prawie-chleby</a>
                 </li>
-                {% if page.url == "/nie-chleby" %}
+                {% if page.url == "/nie-chleby/index.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
@@ -95,7 +95,6 @@ ga('send', 'pageview');
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss"></i></a>
                 </li>
-
             </ul>
 
         <!-- End Menu -->
@@ -140,11 +139,22 @@ ga('send', 'pageview');
 <footer class="footer">
     <div class="container">
         <div class="row">
+            <div class="col">
+                <a href="https://durszlak.pl/" title="Durszlak.pl - polskie blogi kulinarne"><img src="https://durszlak.pl/images/buttons/180x150-white.png?T3K7JvNWjAZrOxFksSxnLgzz" alt="przepisy kulinarne" width="180" height="150" /></a><script data-source="T3K7JvNWjAZrOxFksSxnLgzz" data-widget="durszlak" data-subscriptions="false" data-cookbooks="false" data-search="false" src="//durszlak.pl/assets/durszlak.js" async></script>
+            </div>
+            <div class="col">
+                <a href="https://zmiksowani.pl" title="Przepisy kulinarne" target="_blank"><img src="//static.zmiksowani.pl/button/?src=banner-nowy-120x90-light.png&hash=108670e12c6e0fcf4d959fc8d2eabef6" width="120" height="90" border="0" alt="Przepisy kulinarne"/></a>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="container">
+        <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Meeeediumish Jekyll Theme</a> by WowThemes.net
             </div>
         </div>
     </div>
