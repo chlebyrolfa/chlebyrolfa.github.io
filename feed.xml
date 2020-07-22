@@ -3,9 +3,9 @@
   <channel>
     <title>Chleby Rolfa | Przepis</title>
     <description>Przepisy krok po kroku, gotowe na śniadanie, bez wstawania w środku nocy. Jak upiec chleb w domu? Świeżutki, pachnący, chrupiący, na zakwasie i na drożdżach.</description>
-    <link>www.chlebyrolfa.pl/</link>
-    <atom:link href="www.chlebyrolfa.pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jul 2020 14:14:29 +0000</pubDate>
+    <link>https://www.chlebyrolfa.pl/</link>
+    <atom:link href="https://www.chlebyrolfa.pl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 22 Jul 2020 09:11:01 +0000</pubDate>
     
       <item>
         <title>Bułki ratunkowe (bez wyrastania)</title>
@@ -13,12 +13,12 @@
           <description>Zapomniałeś o śniadaniu? Żona jest głodna, dziecko płacze, a za oknem niedziela handlowa? Taki był właśnie pierwszy raz kiedy upiekłem bułeczki ratunkowe. Ale potem piekłem je jeszcze wiele razy, tak po prostu. Bułeczki wyrastają na proszku do pieczenia, a nie na drożdżach czy zakwasie, więc nie potrzebują czasu na fermentację. Dlatego można je piec od razu po uformowaniu ciasta. Często spotykałem się z podawaniem ich do kolacji czy obiadu, ale ja najczęściej piekę je na śniadanie. Są małe i bardzo smaczne. Chrupiące na zewnątrz, miękkie w środku i zachowują świeżość przez cały dzień.</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-07-17-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-17-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 17 Jul 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/bulki-ratunkowe/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/bulki-ratunkowe/</guid>
+        <link>https://www.chlebyrolfa.pl/bulki-ratunkowe/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/bulki-ratunkowe/</guid>
       </item>
     
       <item>
@@ -27,12 +27,12 @@
           <description>Bajgle to pieczywo pochodzenia polsko-żydowskiego, rodem z krakowskiego Kazimierza (zresztą bliski krewniak obwarzanka). Na dobre jednak bajgle zostały spopularyzowanie w Stanach Zjednoczonych, przez przybyłych z Polski imigrantów. Stąd też te klasyczne bajgle często nazywa się bajglami nowojorskimi. Mają dwie charakterystyczne cechy. Pierwsza to oczywiście dziurka w środku. Druga to fakt, że są gotowane (obwarzane) przed pieczeniem. Dzięki temu mają taką elastyczną, ciągnącą się strukturę miąższu. Ja najbardziej lubię klasyczne połączenie, czyli bajgiel posmarowany serkiem śmietankowym z plasterkiem łososia i awokado. Są po prostu przepyszne!</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-07-10-bajgle/bajgle-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-10-bajgle/bajgle-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 10 Jul 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/bajgle/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/bajgle/</guid>
+        <link>https://www.chlebyrolfa.pl/bajgle/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/bajgle/</guid>
       </item>
     
       <item>
@@ -41,12 +41,12 @@
           <description>Pankejki na zakwasie są przepyszne! Puszyste, lekkie, z delikatnie kwaskowatym posmakiem. Idealnie pasują do truskawek, malin, jagód i w ogóle wszystkich owoców. Do tego syrop klonowy albo bita śmietana i na prawdę nic więcej w życiu nie trzeba! Różnią się od zwykłych pankejków tym, że podstawą jest zakwas żytnio-pszenny zamiast zwykłej mąki. Możesz taki zakwas specjalnie przygotować albo zużyć taki, który akurat i tak musisz dokarmić. Zamiast wyrzucać, zużyj do pankejków. Wszystko w duchu zero waste!</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-07-05-pankejki-na-zakwasie/pankejki-na-zakwasie-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-05-pankejki-na-zakwasie/pankejki-na-zakwasie-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Sun, 05 Jul 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/pankejki-na-zakwasie/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/pankejki-na-zakwasie/</guid>
+        <link>https://www.chlebyrolfa.pl/pankejki-na-zakwasie/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/pankejki-na-zakwasie/</guid>
       </item>
     
       <item>
@@ -55,12 +55,12 @@
           <description>Słodki mleczny chleb. Idealny do domowych konfitur i słodkich past. Uwielbiany przez dzieci! Chleby tego typu są bardzo popularne w Azji, a w Polsce często niedoceniane. Ten przepis jest dokładnie z Hong Kongu i na prawdę warto go spróbować jako ciekawej odmiany od typowo wytrawnych wypieków. Jest bardzo dekoracyjny i można go rwać ręką, co wprowadza urozmaicenie do codziennych ciętych kanapek. Wspaniałych wypieków!</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-06-26-mleczny-chleb/mleczny-chleb-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-26-mleczny-chleb/mleczny-chleb-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 26 Jun 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/mleczny-chleb/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/mleczny-chleb/</guid>
+        <link>https://www.chlebyrolfa.pl/mleczny-chleb/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/mleczny-chleb/</guid>
       </item>
     
       <item>
@@ -69,12 +69,12 @@
           <description>Chleb potrójnie żytni: za zakwasie żytnim, z mąki żytniej chlebowej, z mąki żytniej razowej. Przepyszny i bardzo zdrowy. Długo zachowuje świeżość. Idealnie pasuje do hummusu, serów, warzyw i wszelkiego rodzaju wytrawnych past. Mąka żytnia zawiera bardzo mało glutenu, dlatego struktura ciasta na chleb nie utrzymuje się sama. Stąd też chleby żytnie prawie zawsze piecze się w formach. Dodatkowo brak glutenu sprawia, że chleb nie wymaga wyrabiania, a co za tym idzie, przygotowanie zajmuje tylko krótką chwilkę.</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-06-23-chleb-potrojnie-zytni/chleb-potrojnie-zytni-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-23-chleb-potrojnie-zytni/chleb-potrojnie-zytni-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Tue, 23 Jun 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/chleb-potrojnie-zytni/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/chleb-potrojnie-zytni/</guid>
+        <link>https://www.chlebyrolfa.pl/chleb-potrojnie-zytni/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/chleb-potrojnie-zytni/</guid>
       </item>
     
       <item>
@@ -83,12 +83,12 @@
           <description>Racuchy z jabłkami. Smak dzieciństwa. Idealne na śniadanie albo lekki letni obiad. Przy smażeniu tłuszcz musi być dobrze rozgrzany, tak żeby nie wsiąkał w ciasto. Nie polecam smażenia na maśle, ponieważ masło spala się w bardzo niskiej temperaturze i łatwo jest przypalić racuchy. Nie polecam też smażenia bez tłuszczu - racuchy wyjdą dobre, ale są trochę za suche w smaku. Dlatego nie ma ucieczki, jeśli racuchy to właśnie smażone na oleju i posypane cukrem pudrem. Są przepyszne!</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-06-15-racuchy/racuchy-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-15-racuchy/racuchy-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Mon, 15 Jun 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/racuchy/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/racuchy/</guid>
+        <link>https://www.chlebyrolfa.pl/racuchy/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/racuchy/</guid>
       </item>
     
       <item>
@@ -97,12 +97,12 @@
           <description>Szakszuka (Shakshouka) to danie składające się z jajek sadzonych w sosie na bazie pomidorów, papryki, cebuli i orientalnych przypraw. Danie powstało dawno temu w kulturze Maghrebu, ale przez ostatnie lata weszło do kanonu śniadaniowego właściwie na całym świecie. W idealnej szakszuce białko jajek z wierzchu jest ścięte, a żółtko po przebiciu rozlewa się i miesza z sosem. Są jeszcze dwa sekretne kroki, które sprawiają, że poniższy przepis wynosi szakszukę na wyższy poziom kulinarny. Po pierwsze, sos musi być długo duszony (przez około godzinę), żeby wszystkie warzywa były zupełnie miękkie. Po drugie, przyprawy! Ja używam mieszanki przypraw “Etiopskie Berbere” i nic nie jest w stanie przebić tego smaku!</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-06-05-szakszuka/szakszuka-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-05-szakszuka/szakszuka-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 05 Jun 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/szakszuka/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/szakszuka/</guid>
+        <link>https://www.chlebyrolfa.pl/szakszuka/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/szakszuka/</guid>
       </item>
     
       <item>
@@ -111,12 +111,12 @@
           <description>Naan to płaski chleb używany głównie w kuchni indyjskiej jako dodatek do dań na bazie sosów. Oryginalnie piecze się go w piecu tandoor, ale dla potrzeb domowych świetnie sprawdzi się zwykła patelnia. Piekę naan zawsze, kiedy przygotowuję wszelkiego rodzaju curry oraz do porannej szakszuki. Nie ma bardziej rozgrzewającego śniadania niż szakszuka, naan i filiżanka kawy! W poniższym przepisie używam wody i dużo masła, co w efekcie sprawia, że chlebek jest dość tłusty i wyraźnie warstwowy. Jeśli wolisz, żeby był bardziej miękki i mniej tłusty to zamiast wody użyj 110 g mleka i 60 g jogurtu. Dodatkowo możesz nie składać kilkukrotnie ciasta, a rowałkować tylko raz. Wtedy posmaruj masłem jedynie po samym pieczeniu. Możesz też doprawić albo masło, albo ciasto na chleb różnymi przyprawami (zioła, sezam, czosnek, granulowana cebula). Pamiętaj jednak, że czosnek i cebula bardzo szybko się spalają, więc jeśli dodasz je do ciasta, to piecz chlebek krócej i zachowaj uwagę!</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-06-05-naan/indyjski-chlebek-naan-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-05-naan/indyjski-chlebek-naan-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 05 Jun 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/naan/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/naan/</guid>
+        <link>https://www.chlebyrolfa.pl/naan/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/naan/</guid>
       </item>
     
       <item>
@@ -125,12 +125,12 @@
           <description>Najpiękniejszy chleb świata! Portugalski Broa de Milho to jedyny w swoim rodzaju chleb, który jest wykonany głównie z mąki kukurydzianej. Wyróżnia się cudownie popękaną skórką, żółtym kolorem i lekko słodkim posmakiem. Jest mały, ale zaskakująco ciężki, ponieważ jego miąższ jest bardzo zwarty. Nie wymaga dużo pracy i wyrasta przez noc na blacie kuchennym, dzięki czemu rano jedynie wkładamy go do piekarnika na kamień albo blachę i jest gotowy. Zawiera niewielki procent mąki pszennej, ale jeśli ktoś nie lubi albo nie może jeść glutenu, to z powodzeniem można w zastępstwie użyć mąki żytniej.</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-05-24-portugalski-chleb-kukurydziany/portugalski-chleb-kukurydziany-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-05-24-portugalski-chleb-kukurydziany/portugalski-chleb-kukurydziany-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Sun, 24 May 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/portugalski-chleb-kukurydziany/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/portugalski-chleb-kukurydziany/</guid>
+        <link>https://www.chlebyrolfa.pl/portugalski-chleb-kukurydziany/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/portugalski-chleb-kukurydziany/</guid>
       </item>
     
       <item>
@@ -139,12 +139,12 @@
           <description>Niezwykle puszysty i bardzo oryginalny chleb. Użycie azjatyckiej techniki “tangzhong” sprawia, że chleb jest delikatny, lekki i sprężysty. Dodatkowo zielona herbata matcha nadaje mu piękny, zielony kolor. Dzieci go uwielbiają przez ciekawą strukturę i miękką skórkę. Nadaje się idealnie do wszelkich słodkich dodatków: konfitur, miodu i orzechowo-czekoladowych past. Piekę go bardzo często, bo jest to ciekawa odmiana od chlebów, które zazwyczaj jada się w Polsce. Jego przygotowanie może wydawać się skomplikowane, ale w rzeczywistości jest proste i nie zabiera dużo czasu. Chleb zawsze wychodzi pyszny i nie wymaga wczesnego wstawania rankiem.</description>
         
         
-          <media:content url="www.chlebyrolfa.pl/assets/images/blog/2020-05-17-japonski-chleb-matcha/japonski-chleb-matcha-small.jpg" medium="image" width="600"/>
+          <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-05-17-japonski-chleb-matcha/japonski-chleb-matcha-small.jpg" medium="image" width="600"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Sun, 17 May 2020 23:59:59 +0000</pubDate>
-        <link>www.chlebyrolfa.pl/japonski-chleb-matcha/</link>
-        <guid isPermaLink="true">www.chlebyrolfa.pl/japonski-chleb-matcha/</guid>
+        <link>https://www.chlebyrolfa.pl/japonski-chleb-matcha/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/japonski-chleb-matcha/</guid>
       </item>
     
   </channel>
