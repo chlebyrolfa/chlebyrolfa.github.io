@@ -5,7 +5,7 @@
     <description>Przepisy krok po kroku, gotowe na śniadanie, bez wstawania w środku nocy. Jak upiec chleb w domu? Świeżutki, pachnący, chrupiący, na zakwasie i na drożdżach.</description>
     <link>https://www.chlebyrolfa.pl/</link>
     <atom:link href="https://www.chlebyrolfa.pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jul 2020 09:11:01 +0000</pubDate>
+    <pubDate>Wed, 22 Jul 2020 09:34:52 +0000</pubDate>
     
       <item>
         <title>Bułki ratunkowe (bez wyrastania)</title>
@@ -14,6 +14,9 @@
         
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-17-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-small.jpg" medium="image" width="600"/>
+        
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-17-bulki-ratunkowe-bez-wyrastania/bulki-ratunkowe-bez-wyrastania-small.jpg" medium="image" width="100"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 17 Jul 2020 23:59:59 +0000</pubDate>
@@ -29,6 +32,9 @@
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-10-bajgle/bajgle-small.jpg" medium="image" width="600"/>
         
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-10-bajgle/bajgle-small.jpg" medium="image" width="100"/>
+        
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 10 Jul 2020 23:59:59 +0000</pubDate>
         <link>https://www.chlebyrolfa.pl/bajgle/</link>
@@ -42,6 +48,9 @@
         
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-05-pankejki-na-zakwasie/pankejki-na-zakwasie-small.jpg" medium="image" width="600"/>
+        
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-07-05-pankejki-na-zakwasie/pankejki-na-zakwasie-small.jpg" medium="image" width="100"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Sun, 05 Jul 2020 23:59:59 +0000</pubDate>
@@ -57,6 +66,9 @@
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-26-mleczny-chleb/mleczny-chleb-small.jpg" medium="image" width="600"/>
         
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-26-mleczny-chleb/mleczny-chleb-small.jpg" medium="image" width="100"/>
+        
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 26 Jun 2020 23:59:59 +0000</pubDate>
         <link>https://www.chlebyrolfa.pl/mleczny-chleb/</link>
@@ -70,6 +82,9 @@
         
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-23-chleb-potrojnie-zytni/chleb-potrojnie-zytni-small.jpg" medium="image" width="600"/>
+        
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-23-chleb-potrojnie-zytni/chleb-potrojnie-zytni-small.jpg" medium="image" width="100"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Tue, 23 Jun 2020 23:59:59 +0000</pubDate>
@@ -85,6 +100,9 @@
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-15-racuchy/racuchy-small.jpg" medium="image" width="600"/>
         
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-15-racuchy/racuchy-small.jpg" medium="image" width="100"/>
+        
         <!-- pubDate is the end of the day -->
         <pubDate>Mon, 15 Jun 2020 23:59:59 +0000</pubDate>
         <link>https://www.chlebyrolfa.pl/racuchy/</link>
@@ -98,6 +116,9 @@
         
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-05-szakszuka/szakszuka-small.jpg" medium="image" width="600"/>
+        
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-05-szakszuka/szakszuka-small.jpg" medium="image" width="100"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 05 Jun 2020 23:59:59 +0000</pubDate>
@@ -113,6 +134,9 @@
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-05-naan/indyjski-chlebek-naan-small.jpg" medium="image" width="600"/>
         
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-06-05-naan/indyjski-chlebek-naan-small.jpg" medium="image" width="100"/>
+        
         <!-- pubDate is the end of the day -->
         <pubDate>Fri, 05 Jun 2020 23:59:59 +0000</pubDate>
         <link>https://www.chlebyrolfa.pl/naan/</link>
@@ -127,6 +151,9 @@
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-05-24-portugalski-chleb-kukurydziany/portugalski-chleb-kukurydziany-small.jpg" medium="image" width="600"/>
         
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-05-24-portugalski-chleb-kukurydziany/portugalski-chleb-kukurydziany-small.jpg" medium="image" width="100"/>
+        
         <!-- pubDate is the end of the day -->
         <pubDate>Sun, 24 May 2020 23:59:59 +0000</pubDate>
         <link>https://www.chlebyrolfa.pl/portugalski-chleb-kukurydziany/</link>
@@ -140,6 +167,9 @@
         
         
           <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-05-17-japonski-chleb-matcha/japonski-chleb-matcha-small.jpg" medium="image" width="600"/>
+        
+        
+          <media:thumbnail url="https://www.chlebyrolfa.pl/assets/images/blog/2020-05-17-japonski-chleb-matcha/japonski-chleb-matcha-small.jpg" medium="image" width="100"/>
         
         <!-- pubDate is the end of the day -->
         <pubDate>Sun, 17 May 2020 23:59:59 +0000</pubDate>
