@@ -38,7 +38,5 @@ layout: null
 <link>https://gocha2308.blogspot.com/2020/07/skadniki-12-kg-maki-250-ml-ciepego.html</link>
 <guid isPermaLink="true">https://gocha2308.blogspot.com/2020/07/skadniki-12-kg-maki-250-ml-ciepego.html</guid>
 </item>
-
-    {% endfor %}
   </channel>
 </rss>
