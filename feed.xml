@@ -9,28 +9,63 @@ layout: null
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | strip_html | xml_escape | strip}}</description>
-          <content type='html'><figure><img src="{{ site.url }}/{{ post.image-small }}"/></figure>{{ post.excerpt | strip_html | xml_escape | strip}}</content>
-        {% else %}
-          <description>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</description>
-          <content type='html'><figure><img src="{{ site.url }}/{{ post.image-small }}"/></figure>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</content>
-        {% endif %}
-        {% if post.image-small %}
-          <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image" width="600"/>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image-small }}" width="100"/>
-        {% else %}
-           <media:content url="{{ site.url }}/{{ post.image }}" medium="image" width="600"/>
-           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" width="100"/>
-        {% endif %}
-        <!-- pubDate is the end of the day -->
-        <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-      </item>
-    {% endfor %}
+    <item>
+		<title>Pasztet z cukini</title>
+		<link>http://natka-pietruszki.pl/2020/07/22/pasztet-z-cukini/</link>
+					<comments>http://natka-pietruszki.pl/2020/07/22/pasztet-z-cukini/#respond</comments>
+		
+		<dc:creator><![CDATA[Natalia]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2020 09:49:53 +0000</pubDate>
+				<category><![CDATA[Dla najmłodszych]]></category>
+		<category><![CDATA[Przepisy]]></category>
+		<category><![CDATA[cukinia]]></category>
+		<category><![CDATA[dla dzieci]]></category>
+		<category><![CDATA[pasztet]]></category>
+		<category><![CDATA[pasztet warzywny]]></category>
+		<category><![CDATA[pasztet z cukinii]]></category>
+		<category><![CDATA[warzywa]]></category>
+		<guid isPermaLink="false">http://natka-pietruszki.pl/?p=2367</guid>
+
+					<description><![CDATA[<p>Zdecydowanie jest to najlepszy warzywny pasztet jaki kiedykolwiek jadłam! Oryginalny przepis pochodzi z bloga pani Agnieszki Maciąg, która jest moją wielką inspiracją! Zachęcona wieloma pozytywnymi komentarzami pod jej przepisem, postanowiłam, że i ja spróbuję tego wypieku. Ten pasztet z cukinii jest naprawdę wspaniały! 🙂 Na pewno na stałe zagości w naszym rodzinnym menu. Oczywiście polecam [&#8230;]</p>
+<p>Artykuł <a rel="nofollow" href="http://natka-pietruszki.pl/2020/07/22/pasztet-z-cukini/">Pasztet z cukini</a> pochodzi z serwisu <a rel="nofollow" href="http://natka-pietruszki.pl">Natka-Pietruszki.pl</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Zdecydowanie jest to najlepszy warzywny pasztet jaki kiedykolwiek jadłam!  Oryginalny przepis pochodzi z bloga pani Agnieszki Maciąg, która jest moją wielką inspiracją! Zachęcona wieloma pozytywnymi komentarzami pod jej przepisem, postanowiłam, że i ja spróbuję tego wypieku. Ten pasztet z cukinii jest naprawdę wspaniały! <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Na pewno na stałe zagości w naszym rodzinnym menu. Oczywiście polecam go także dzieciom &#8211; jest delikatny i wręcz rozpływa się w ustach. Koniecznie musicie go wypróbować!</strong></p>
+
+
+
+<figure class="wp-block-image"><img src="http://natka-pietruszki.pl/wp-content/uploads/2020/03/pasztet2-1024x768.jpg" alt="pasztet z cukinii" class="wp-image-2369" srcset="http://natka-pietruszki.pl/wp-content/uploads/2020/03/pasztet2-1024x768.jpg 1024w, http://natka-pietruszki.pl/wp-content/uploads/2020/03/pasztet2-300x225.jpg 300w, http://natka-pietruszki.pl/wp-content/uploads/2020/03/pasztet2-768x576.jpg 768w, http://natka-pietruszki.pl/wp-content/uploads/2020/03/pasztet2.jpg 1059w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4>Pasztet z cukini &#8211; składniki:</h4>
+
+
+
+<ul><li>2 małe cukinie, każda o masie około 180g,</li><li>1 duża marchewka,</li><li>5 ząbków czosnku,</li><li>2 małe czerwone cebule,</li><li>pół pęczka natki pietruszki,</li><li>1 łyżeczka curry,</li><li>1/2 łyżeczki kurkumy,</li><li>1 łyżka suszonego oregano,</li><li>1 łyżeczka suszonej bazylii,</li><li>świeżo zmielony pieprz i sól,</li><li>1/2 szklanki oleju rzepakowego,</li><li>1/2 szklanki kaszy mannej,</li><li>4 jajka od szczęśliwej kurki,</li><li>bułka tarta i masło do przygotowania foremki do pieczenia.</li></ul>
+
+
+
+<h4>Pasztet z cukini &#8211; sposób przygotowania</h4>
+
+
+
+<ol><li>Na początek myję i osuszam cukinie, a następnie ścieram je na tarce o grubych oczkach. Dodaję do startych warzyw odrobinę soli i odstawiam na kilka minut aby puściły jak najwięcej soku.</li><li>W tym czasie drobno siekam cebulki oraz czosnek, a także natkę pietruszki.</li><li>Na patelni rozgrzewam olej i smażę w nim posiekane cebule wraz z czosnkiem aby były miękkie. Nie długo &#8211; około 3 minuty.</li><li>Następnie dodaję na patelnię także suszone oregano, bazylię, pieprz i zestawiam z ognia.</li><li>Z miski ze startą cukinią pozbywam się nadmiaru wody. Ważne, aby dokładnie wycisnąć cukinie i odsączyć wodę!</li><li>Następnie dodaję marchewkę, którą również ścieram na tarce o dużych oczkach.</li><li>Dodaję także kaszę manną, jajka, curry, kurkumę, natkę pietruszki oraz zawartość patelni.</li><li>Wszystko dokładnie mieszam łyżką i przekładam masę do keksówki obtoczonej bułką tartą.</li><li>Pasztet wstawiam do nagrzanego na 190 stopni piekarnika i piekę przez 1 godzinę.</li></ol>
+
+
+
+<p>Mam także sposób na cukinię w słodkiej wersji &#8211; wypróbuj <a href="http://natka-pietruszki.pl/2019/08/16/najlepsze-brownie-z-cukini/">cukiniowe brownie</a> <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>Jeśli chcesz być na bieżąco ze zdrową i smaczną dietą, śledź mnie na&nbsp;<a href="https://www.facebook.com/natkapietruszkipl/" target="_blank" rel="noreferrer noopener">Facebooku</a>&nbsp;i&nbsp;<a href="https://www.instagram.com/natkapietruszkipl/?hl=pl" target="_blank" rel="noreferrer noopener">Instagramie</a>&nbsp;<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tam częściej pojawiają się zdrowe pyszności <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p>Artykuł <a rel="nofollow" href="http://natka-pietruszki.pl/2020/07/22/pasztet-z-cukini/">Pasztet z cukini</a> pochodzi z serwisu <a rel="nofollow" href="http://natka-pietruszki.pl">Natka-Pietruszki.pl</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://natka-pietruszki.pl/2020/07/22/pasztet-z-cukini/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
   </channel>
 </rss>
