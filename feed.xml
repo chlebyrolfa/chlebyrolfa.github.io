@@ -21,10 +21,10 @@ layout: null
         {% endif %}
         {% if post.image-small %}
           <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image" width="600"/>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image-small }}" medium="image" width="100"/>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image-small }}" width="100"/>
         {% else %}
            <media:content url="{{ site.url }}/{{ post.image }}" medium="image" width="600"/>
-           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" medium="image" width="100"/>
+           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" width="100"/>
         {% endif %}
         <!-- pubDate is the end of the day -->
         <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
