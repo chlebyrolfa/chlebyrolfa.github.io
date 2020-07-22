@@ -16,11 +16,11 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         {% if post.excerpt %}
-          <description>{{ post.excerpt | strip_html | xml_escape | strip}} | Przepis</description>
-          <content:encoded><![CDATA[<img src="{{ site.url }}/{{ post.image-small }}"/> {{ post.excerpt | strip_html | xml_escape | strip}} | Przepis]]></content:encoded>
+          <description>{{ post.excerpt | strip_html | xml_escape | strip}}</description>
+          <content:encoded><![CDATA[<img src="{{ site.url }}/{{ post.image-small }}"/> {{ post.excerpt | strip_html | xml_escape | strip}}]]></content:encoded>
         {% else %}
-          <description>{{ post.content | strip_html | xml_escape | truncatewords:50 }} | Przepis</description>
-          <content:encoded><![CDATA[<img src="{{ site.url }}/{{ post.image-small }}"/> {{ post.content | strip_html | xml_escape | truncatewords:50 }} | Przepis]]></content:encoded>
+          <description>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</description>
+          <content:encoded><![CDATA[<img src="{{ site.url }}/{{ post.image-small }}"/> {{ post.content | strip_html | xml_escape | truncatewords:50 }}]]></content:encoded>
         {% endif %}
         {% if post.image-small %}
           <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image" width="600"/>
@@ -30,7 +30,7 @@ layout: null
            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" width="600"/>
         {% endif %}
         <!-- pubDate is the end of the day -->
-        <pubDate>{{ post.date | date:'%s' | date_to_rfc822 }}</pubDate>
+        <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
       </item>
