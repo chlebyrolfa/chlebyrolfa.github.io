@@ -8,7 +8,7 @@
     <description>Przepisy krok po kroku, gotowe na śniadanie, bez wstawania w środku nocy. Jak upiec chleb w domu? Świeżutki, pachnący, chrupiący, na zakwasie i na drożdżach.</description>
     <link>https://www.chlebyrolfa.pl/</link>
     <atom:link href="https://www.chlebyrolfa.pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jul 2020 14:19:04 +0000</pubDate>
+    <pubDate>Wed, 22 Jul 2020 14:24:49 +0000</pubDate>
     
       <item>
         <title>Bułki ratunkowe (bez wyrastania)</title>
@@ -25,11 +25,11 @@
         <link>https://www.chlebyrolfa.pl/bulki-ratunkowe/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/bulki-ratunkowe/</guid>
         
-        <category term="proszek"/>
+        <category>proszek</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="blacha"/>
+        <category>blacha</category>
         
       </item>
     
@@ -48,15 +48,15 @@
         <link>https://www.chlebyrolfa.pl/bajgle/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/bajgle/</guid>
         
-        <category term="chleby-swiata"/>
+        <category>chleby-swiata</category>
         
-        <category term="drozdze"/>
+        <category>drozdze</category>
         
-        <category term="sredniotrudny"/>
+        <category>sredniotrudny</category>
         
-        <category term="blacha"/>
+        <category>blacha</category>
         
-        <category term="wege"/>
+        <category>wege</category>
         
       </item>
     
@@ -75,13 +75,13 @@
         <link>https://www.chlebyrolfa.pl/pankejki-na-zakwasie/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/pankejki-na-zakwasie/</guid>
         
-        <category term="zakwas"/>
+        <category>zakwas</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="patelnia"/>
+        <category>patelnia</category>
         
-        <category term="proszek-do-pieczenia"/>
+        <category>proszek-do-pieczenia</category>
         
       </item>
     
@@ -100,13 +100,13 @@
         <link>https://www.chlebyrolfa.pl/mleczny-chleb/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/mleczny-chleb/</guid>
         
-        <category term="chleby-swiata"/>
+        <category>chleby-swiata</category>
         
-        <category term="drozdze"/>
+        <category>drozdze</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="forma"/>
+        <category>forma</category>
         
       </item>
     
@@ -125,13 +125,13 @@
         <link>https://www.chlebyrolfa.pl/chleb-potrojnie-zytni/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/chleb-potrojnie-zytni/</guid>
         
-        <category term="zakwas"/>
+        <category>zakwas</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="forma"/>
+        <category>forma</category>
         
-        <category term="wege"/>
+        <category>wege</category>
         
       </item>
     
@@ -150,11 +150,11 @@
         <link>https://www.chlebyrolfa.pl/racuchy/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/racuchy/</guid>
         
-        <category term="drozdze"/>
+        <category>drozdze</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="patelnia"/>
+        <category>patelnia</category>
         
       </item>
     
@@ -173,9 +173,9 @@
         <link>https://www.chlebyrolfa.pl/szakszuka/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/szakszuka/</guid>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="patelnia"/>
+        <category>patelnia</category>
         
       </item>
     
@@ -194,13 +194,13 @@
         <link>https://www.chlebyrolfa.pl/naan/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/naan/</guid>
         
-        <category term="chleby-swiata"/>
+        <category>chleby-swiata</category>
         
-        <category term="drozdze"/>
+        <category>drozdze</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="patelnia"/>
+        <category>patelnia</category>
         
       </item>
     
@@ -219,17 +219,17 @@
         <link>https://www.chlebyrolfa.pl/portugalski-chleb-kukurydziany/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/portugalski-chleb-kukurydziany/</guid>
         
-        <category term="chleby-swiata"/>
+        <category>chleby-swiata</category>
         
-        <category term="zakwas"/>
+        <category>zakwas</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="kamien"/>
+        <category>kamien</category>
         
-        <category term="blacha"/>
+        <category>blacha</category>
         
-        <category term="wege"/>
+        <category>wege</category>
         
       </item>
     
@@ -248,13 +248,13 @@
         <link>https://www.chlebyrolfa.pl/japonski-chleb-matcha/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/japonski-chleb-matcha/</guid>
         
-        <category term="chleby-swiata"/>
+        <category>chleby-swiata</category>
         
-        <category term="drozdze"/>
+        <category>drozdze</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="forma"/>
+        <category>forma</category>
         
       </item>
     
@@ -273,15 +273,15 @@
         <link>https://www.chlebyrolfa.pl/chleb-podstawowy/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/chleb-podstawowy/</guid>
         
-        <category term="na-poczatek"/>
+        <category>na-poczatek</category>
         
-        <category term="zakwas"/>
+        <category>zakwas</category>
         
-        <category term="bardzo-prosty"/>
+        <category>bardzo-prosty</category>
         
-        <category term="forma"/>
+        <category>forma</category>
         
-        <category term="wege"/>
+        <category>wege</category>
         
       </item>
     
@@ -300,13 +300,13 @@
         <link>https://www.chlebyrolfa.pl/chalka/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/chalka/</guid>
         
-        <category term="na-poczatek"/>
+        <category>na-poczatek</category>
         
-        <category term="drozdze"/>
+        <category>drozdze</category>
         
-        <category term="bardzo-prosty"/>
+        <category>bardzo-prosty</category>
         
-        <category term="blacha"/>
+        <category>blacha</category>
         
       </item>
     
@@ -325,13 +325,13 @@
         <link>https://www.chlebyrolfa.pl/chleb-z-idealna-skorka/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/chleb-z-idealna-skorka/</guid>
         
-        <category term="zakwas"/>
+        <category>zakwas</category>
         
-        <category term="sredniotrudny"/>
+        <category>sredniotrudny</category>
         
-        <category term="garnek"/>
+        <category>garnek</category>
         
-        <category term="wege"/>
+        <category>wege</category>
         
       </item>
     
@@ -350,11 +350,11 @@
         <link>https://www.chlebyrolfa.pl/cynamonki/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/cynamonki/</guid>
         
-        <category term="drozdze"/>
+        <category>drozdze</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="blacha"/>
+        <category>blacha</category>
         
       </item>
     
@@ -373,15 +373,15 @@
         <link>https://www.chlebyrolfa.pl/bagietka/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/bagietka/</guid>
         
-        <category term="drozdze"/>
+        <category>drozdze</category>
         
-        <category term="sredniotrudny"/>
+        <category>sredniotrudny</category>
         
-        <category term="kamien"/>
+        <category>kamien</category>
         
-        <category term="blacha"/>
+        <category>blacha</category>
         
-        <category term="wege"/>
+        <category>wege</category>
         
       </item>
     
@@ -400,13 +400,13 @@
         <link>https://www.chlebyrolfa.pl/chleb-z-melasa/</link>
         <guid isPermaLink="true">https://www.chlebyrolfa.pl/chleb-z-melasa/</guid>
         
-        <category term="zakwas"/>
+        <category>zakwas</category>
         
-        <category term="prosty"/>
+        <category>prosty</category>
         
-        <category term="forma"/>
+        <category>forma</category>
         
-        <category term="wege"/>
+        <category>wege</category>
         
       </item>
     
