@@ -14,18 +14,17 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         {% if post.excerpt %}
           <description>{{ post.excerpt | strip_html | xml_escape | strip}}</description>
+          <content type='html'>{{ post.excerpt | strip_html | xml_escape | strip}}</content>
         {% else %}
           <description>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</description>
+          <content type='html'>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</content>
         {% endif %}
         {% if post.image-small %}
           <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image" width="600"/>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image-small }}" medium="image" width="100"/>
         {% else %}
            <media:content url="{{ site.url }}/{{ post.image }}" medium="image" width="600"/>
-        {% endif %}
-        {% if post.image-small %}
-          <media:thumbnail url="{{ site.url }}/{{ post.image-small }}" medium="image" width="100"/>
-        {% else %}
-           <media:thumbnail url="{{ site.url }}/{{ post.image }}" medium="image" width="100"/>
+           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" medium="image" width="100"/>
         {% endif %}
         <!-- pubDate is the end of the day -->
         <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
