@@ -1,0 +1,36 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ site.name | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    {% for post in site.posts limit:10 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        {% if post.excerpt %}
+          <description>{{ post.excerpt | strip_html | xml_escape | strip}}</description>
+          <content type='html'><figure><img src="{{ site.url }}/{{ post.image-small }}"/></figure>{{ post.excerpt | strip_html | xml_escape | strip}}</content>
+        {% else %}
+          <description>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</description>
+          <content type='html'><figure><img src="{{ site.url }}/{{ post.image-small }}"/></figure>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</content>
+        {% endif %}
+        {% if post.image-small %}
+          <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image" width="600"/>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image-small }}" width="100"/>
+        {% else %}
+           <media:content url="{{ site.url }}/{{ post.image }}" medium="image" width="600"/>
+           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" width="100"/>
+        {% endif %}
+        <!-- pubDate is the end of the day -->
+        <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
