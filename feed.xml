@@ -22,6 +22,11 @@ layout: null
         {% else %}
            <media:content url="{{ site.url }}/{{ post.image }}" medium="image" width="600"/>
         {% endif %}
+        {% if post.image-small %}
+          <media:thumbnail url="{{ site.url }}/{{ post.image-small }}" medium="image" width="100"/>
+        {% else %}
+           <media:thumbnail url="{{ site.url }}/{{ post.image }}" medium="image" width="100"/>
+        {% endif %}
         <!-- pubDate is the end of the day -->
         <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
