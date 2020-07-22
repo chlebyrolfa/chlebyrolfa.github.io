@@ -3,3 +3,7 @@
   <meta content="website" property="og:type">
   <meta content="{{ site.url }}/{{ site.logo }}" property="og:image">
 {% endif %}
+{% if page.image %}
+<link href="{{ page.image }}" rel='image_src'/>
+<meta content="{{ page.image }}" itemprop='image_url'/>
+{% endif %}
