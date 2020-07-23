@@ -1,6 +1,7 @@
 ---
 layout: post
-image:  assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-1.jpg
+image:  assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy.jpg
+image-small: assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-small.jpg
 title: Pszenny chleb południowy
 description: Przepis na włoski/hiszpański chleb pszenny pieczony w garnku żeliwnym. Upieczony w ten sposób będzie miał pięknie zrumienioną, chrupiącą i malowniczo popękaną skórkę.
 tags: chleby-swiata drozdze trudny garnek wege
@@ -81,6 +82,3 @@ Alternatywnie, zamiast garnka, możesz upiec chleb na kamieniu do pizzy albo bla
 11\. Piecz **20 minut** pod przykryciem i **20 minut** bez przykrycia. Studź na kratce kuchennej.
 
 ![Pszenny chleb południowy](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-gotowy.jpg)
-
-![Pszenny chleb południowy](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-gotowy-drugi.jpg)
-
