@@ -1,7 +1,7 @@
 ---
 layout: post
-image:  assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy.jpg
-image-small: assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-small.jpg
+image:  assets/images/blog/2020-08-03-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy.jpg
+image-small: assets/images/blog/2020-08-03-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-small.jpg
 title: Pszenny chleb południowy
 description: Przepis na włoski/hiszpański chleb pszenny pieczony w garnku żeliwnym. Upieczony w ten sposób będzie miał pięknie zrumienioną, chrupiącą i malowniczo popękaną skórkę.
 tags: chleby-swiata drozdze trudny garnek wege
@@ -55,13 +55,13 @@ Pszenny, klasyczny, czteroskładnikowy chleb. Niezwykle popularny na południu E
 
 Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do środka. Zrób to samo **4 razy**, za każdym razem chwytając za inny bok ciasta. Przykryj ściereczką i odstaw na **20 minut** w temperaturze pokojowej.
 
-![Pszenny chleb południowy - przekładanie](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-przekladanie.jpg)
+![Pszenny chleb południowy - przekładanie](/assets/images/blog/2020-08-03-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-przekladanie.jpg)
 
 4\. Powtórz **po raz drugi** operację składania i odstaw na **20 minut**.
 
 5\. Powtórz **po raz trzeci** operację składania, zauważ jak zmienia się **struktura** ciasta.
 
-![Pszenny chleb południowy - przygotowanie](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-zmiany.jpg)
+![Pszenny chleb południowy - przygotowanie](/assets/images/blog/2020-08-03-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-zmiany.jpg)
 
 6\. Przykryj miskę **folią spożywczą** i odstaw na **12 godzin** w temperaturze pokojowej.
 
@@ -69,7 +69,7 @@ Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do
 
 8\. Obsyp solidnie **koszyk do wyrastania** mąką, po czym przełóż do niego uformowany bochenek chleba. Koszyk włóż do **torby foliowej** i odstaw na **50 minut** w temperaturze pokojowej. W międzyczasie włóż garnek żeliwny do piekarnika i ustaw na **250 stopni**.
 
-![Pszenny chleb południowy - formowanie](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-formowanie.jpg)
+![Pszenny chleb południowy - formowanie](/assets/images/blog/2020-08-03-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-formowanie.jpg)
 
 9\. Przygotuj deskę (albo łopatkę do pizzy) i oprósz ją mąką. Następnie, wyciągnij koszyk z torby foliowej i oprósz mąką wierzch chleba. Przyłóż deskę do koszyka i jednym ruchem obróć je do góry nogami, żeby **przełożyć chleb z koszyka na deskę**. Pędzelkiem **pozbądź się nadmiaru mąki**.
 
@@ -77,8 +77,8 @@ Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do
 
 Alternatywnie, zamiast garnka, możesz upiec chleb na kamieniu do pizzy albo blasze. Taki sposób spowoduje, że chleb będzie miał większe dziury, będzie bardziej wyrośnięty i jego skórka będzie dużo bardziej spieczona. Pamiętaj, że kamień (albo blacha) muszą być dobrze rozgrzane kiedy przekładasz na nie chleb.
 
-![Pszenny chleb południowy - garnek](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-garnek.jpg)
+![Pszenny chleb południowy - garnek](/assets/images/blog/2020-08-03-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-garnek.jpg)
 
 11\. Piecz **20 minut** pod przykryciem i **20 minut** bez przykrycia. Studź na kratce kuchennej.
 
-![Pszenny chleb południowy](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-gotowy.jpg)
+![Pszenny chleb południowy](/assets/images/blog/2020-08-03-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-gotowy.jpg)
