@@ -53,7 +53,7 @@ Pszenny, klasyczny, czteroskładnikowy chleb. Niezwykle popularny na południu E
 
 3\. Ciasto jest gotowe do **przekładania**. Proces ten sprawi, że będzie ono dobrze napowietrzone i zwiąże się gluten.
 
-Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do środka. Zrób to samo **4 razy**, za każdym razem chwytając za innym bok ciasta. Przykryj ściereczką i odstaw na **20 minut** w temperaturze pokojowej.
+Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do środka. Zrób to samo **4 razy**, za każdym razem chwytając za inny bok ciasta. Przykryj ściereczką i odstaw na **20 minut** w temperaturze pokojowej.
 
 ![Pszenny chleb południowy - przekładanie](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-przekladanie.jpg)
 
@@ -71,7 +71,7 @@ Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do
 
 ![Pszenny chleb południowy - formowanie](/assets/images/blog/2020-07-23-pszenny-chleb-poludniowy/pszenny-chleb-poludniowy-formowanie.jpg)
 
-9\. Przygotuj deskę (albo łopatkę do pizzy) i oprósz ją mąką. Następnie, wyciągnij koszyk z torby foliowej i oprósz mąką wierz chleba. Przyłóż deskę do koszyka i jednym ruchem obróć je o 180 stopni, żeby **przełożyć chleb z koszyka na deskę**. Pędzelkiem **pozbądź się nadmiaru mąki**.
+9\. Przygotuj deskę (albo łopatkę do pizzy) i oprósz ją mąką. Następnie, wyciągnij koszyk z torby foliowej i oprósz mąką wierzch chleba. Przyłóż deskę do koszyka i jednym ruchem obróć je do góry nogami, żeby **przełożyć chleb z koszyka na deskę**. Pędzelkiem **pozbądź się nadmiaru mąki**.
 
 10\. Wyciągnij **garnek żeliwny** z piekarnika i przełóż do niego chleb. Włóż garnek do piekarnika, dalej ustawionego na **250 stopni**.
 
