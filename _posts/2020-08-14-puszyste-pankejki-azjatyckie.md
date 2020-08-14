@@ -11,7 +11,7 @@ amount: 3-4 pankejki
 
 -----
 
-Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii. Ich niezwykłość polega na tym, że w rzeczywistości te pankejki to małe suflety, które wyrastają dzięki ubitej pianie z białek. Są delikatne, puszyste i rozpływają się w ustach. Można podawać z lodami, owocami albo, po prostu, syropem klonowym i masłem. Sam przepis nie wygląda na skomplikowany, jednak cała trudność polega na tym, żeby pankejki po ściągnięciu ich z patelni nie opadły. Nie jest to proste i na pewno będzie wymagało kilku podejść. Sprawę nieco ułatwiają metalowe ringi, ale jeśli kolejne próby również nie będą się udawały, to polecam dodać białka z dwóch dodatkowych jajek. Ważne jest dobre ubicie piany z białek i odpowiednia długość trzymania pankejków na patelni. Ale zapewniam, że na prawdę warto, bo nigdy nie jedliście lepszych pankejków!
+Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii. Ich niezwykłość polega na tym, że w rzeczywistości te pankejki to małe suflety, które wyrastają dzięki ubitej pianie z białek. Są delikatne, puszyste i rozpływają się w ustach. Można podawać z lodami, owocami albo, po prostu, syropem klonowym i masłem. Sam przepis nie wygląda na skomplikowany, jednak cała trudność polega na tym, żeby pankejki po ściągnięciu ich z patelni nie opadły. Nie jest to proste i na pewno będzie wymagało kilku podejść. Sprawę nieco ułatwiają metalowe ringi, ale jeśli kolejne próby również nie będą się udawały, to polecam dodać białka z dwóch dodatkowych jajek. Ważne jest dobre ubicie piany z białek i odpowiednia długość trzymania pankejków na patelni. Ale zapewniam, że na prawdę warto, bo nigdy nie jedliście delikatniejszych pankejków!
 
 -----
 
@@ -67,14 +67,14 @@ Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii.
 
 Jeśli nie masz ringów, to możesz piec bez nich. Ułatwiają one jednak wszystkie operacje i zapobiegają opadaniu pankejków po usmażeniu.
 
-6\. Nakładaj **masę** dużą łyżką, ja używam gałkownicy do lodów. Alternatywnie możesz użyć rękawu cukierniczego.
+6\. Nakładaj **masę** do ringów dużą łyżką, ja używam gałkownicy do lodów. Alternatywnie możesz użyć rękawu cukierniczego.
 
-7\. **Nalej** w kilku miejscach patelni po łyżce wody i **przykryj** pokrywką. Smaż **5 min**, co jakiś czas podlewając łyżkę wody. Pankejki potrzebują pary, żeby ładnie wyrosnąć.
+7\. **Nalej** w kilku miejscach patelni (poza ringami) po łyżce wody i **przykryj** pokrywką. Smaż **5 min**, co jakiś czas podlewając łyżkę wody. Pankejki potrzebują pary, żeby ładnie wyrosnąć.
 
 ![Puszyste pankejki azjatyckie - smażenie](/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-smazenie.jpg)
 
 8\. Przewróć każdego z pankejków **na drugą stronę** i również smaż **5 minut** podlewając co jakiś czas łyżką wody.
 
-9\. Ściągnij patelnię z gazu i **odczekaj** jeszcze około **5 minut** przed podaniem. Zminimalizuje to ryzyko, że pankejki opadną.
+9\. Ściągnij patelnię z gazu i **odczekaj** jeszcze około **5 minut** przed przełożeniem pankejków z patelni. Zminimalizuje to ryzyko, że pankejki opadną.
 
 ![Puszyste pankejki azjatyckie](/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-gotowe.jpg)
