@@ -3,7 +3,7 @@ layout: post
 image:  assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie.jpg
 image-small:  assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-small.jpg
 title: Puszyste pankejki azjatyckie
-description: TODO
+description: Najbardziej puszyste pankejki na świecie. Znane z Japonii i krajów azjatyckich. Delikatne, sufletowe, rozpływają się w ustach. Puszyste dzięki dużej ilości ubitych białek.
 tags: trudny patelnia proszek
 categories: prawie-chleby
 amount: 3-4 pankejki
@@ -11,67 +11,70 @@ amount: 3-4 pankejki
 
 -----
 
-TODO
+Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii. Ich niezwykłość polega na tym, że w rzeczywistości te pankejki to małe suflety, które wyrastają dzięki ubitej pianie z białek. Są delikatne, puszyste i rozpływają się w ustach. Można podawać z lodami, owocami albo, po prostu, syropem klonowym i masłem. Sam przepis nie wygląda na skomplikowany, jednak cała trudność polega na tym, żeby pankejki po ściągnięciu ich z patelni nie opadły. Nie jest to proste i na pewno będzie wymagało kilku podejść. Sprawę nieco ułatwiają metalowe ringi, ale jeśli kolejne próby również nie będą się udawały, to polecam dodać białka z dwóch dodatkowych jajek. Ważne jest dobre ubicie piany z białek i odpowiednia długość trzymania pankejków na patelni. Ale zapewniam, że na prawdę warto, bo nigdy nie jedliście lepszych pankejków!
 
 -----
 
 ## Składniki
 
-#### Zakwas
+#### Pankejki
 
-* 130 g mąki pszennej
-* 65 g mąki żytniej
-* 1 łyżka zakwasu
-* 215 g wody
-
-#### Ciasto
-
-* zakwas
-* 2 jajka
-* 1 torebka cukru waniliowego (16 g)
-* 1/2 łyżeczki soli
-* 1/2 łyżeczki sody oczyszczonej
-* 2 łyżeczki proszku do pieczenia
-* 4 łyżki masła
-
+* 3 żółtka
+* 1,5 łyżki (11 g) mleka
+* 1,5 łyżki (10 g) cukru waniliowego
+* szczypta soli
+* 37 g mąki
+* 1 łyżeczka proszku do pieczenia
+* 4 białka
+* 2 łyżki cukru pudru
 
 #### Dodatkowo
 
-* olej do wysmarowania patelni
+* olej do wysmarowania patelni i metalowych ringów
+* woda do podlewania patelni
 
 -----
 
 ## W skrócie
 
-1. Wieczorem wymieszaj **składniki na zakwas** i odstaw na **noc**
-2. Rano do zakwasu dodaj **wszystkie składniki na ciasto**
-3. **Wymieszaj** delikatnie rózgą
-4. Rozgrzej **patelnię z olejem** i rozetrzyj olej ręcznikiem papierowym
-5. **Smaż z dwóch stron** aż będą rumiane
+1. Wymieszaj **żółtka**, następnie dodaj **mleko**, **cukier waniliowy** i **szczyptę soli**
+2. Przesiej **mąkę i proszek do pieczenia** przez sitko i wszystko wymieszaj
+3. W osobnej misce **ubij mikserem białka** i dodaj **cukier puder**
+4. Wymieszaj masy z **obu misek**
+5. Wysmaruj **patelnię** (i **metalowe ringi**) olejem, rozgrzej na średnim gazie
+6. Nakładaj **masę** dużą łyżką
+7. Smaż **5 minut** pod przykryciem, podlewając co jakiś czas łyżką wody
+8. Przewróć **na drugą stronę** i smaż również **5 minut**
+9. Odstaw patelnię z gazu i **odczekaj** jeszcze **5 minut** przed podaniem
 
 -----
 
 ## Przepis szczegółowy
 
-1\. W misce wymieszaj **wszystkie składniki na zakwas** i zostaw na **noc** w temperaturze pokojowej.
+1\. Przygotuj wszystkie składniki i 2 osobne miski. Do pierwszej z nich przełóż **żółtka** i wymieszaj je rózgą. Następnie dodaj **mleko**, **cukier waniliowy** i **szczyptę soli**. Wszystko wymieszaj.
 
-Alternatywnie, jeśli hodujesz zakwas w dużym słoiku, to możesz pominąć ten krok i rano zużyć tę cześć hodowanego zakwasu, która normalnie byłaby do wyrzucenia przy standardowym dokarmianiu.\\
-Na przykład, hodujesz zakwas w słoiku 150 g. Wtedy rano odkładasz do miski 130 g zakwasu. W słoiku zostaje 20 g i po prostu najnormalniej zakwas dokarmiasz. Natomiast 130 g dopełniasz odpowiednio mąką pszenną i wodą tak, żeby w sumie było tyle co w przepisie. I używasz tego do pankejków. Zero waste.
+![Puszyste pankejki azjatyckie - składniki](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-skladniki.jpg)
 
-![Pankejki na zakwasie - Zakwas](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/pankejki-na-zakwasie-zakwas.jpg)
+2\. Przesiej przez sitko **mąkę i proszek do pieczenia**, wszystko wymieszaj rózgą. Powinna powstać dość gęsta masa.
 
-2\. Rano rozpuść **4 łyżki masła na patelni** i następnie dodaj do zakwasu **wszystkie pozostałe składniki na ciasto** (rozpuszczone masło, jajka, cukier waniliowy, sól, sodę oczyszczoną i proszek do pieczenia).
+3\. Do drugiej miski przełóż **białka z jajek** i ubij mikserem. Przy końcu ubijania dodaj stopniowo **cukier puder**. Masa powinna być zupełnie sztywna.
 
-![Pankejki na zakwasie - Składniki](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/pankejki-na-zakwasie-skladniki.jpg)
+4\. Połącz delikatnie **masy z obu misek**. Najłatwiej zrobić to stopniowo dodając masę z białek do masy z żółtek.
 
-3\. **Wymieszaj** wszystko **rózgą**. Masa powinna być dobrze rozmieszana, ale mieszaj delikatnie, żeby wyrośnięty zakwas nie opadł i dalej był puszysty.
+![Puszyste pankejki azjatyckie - mieszanie](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-mieszanie.jpg)
 
-![Pankejki na zakwasie - Masa](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/pankejki-na-zakwasie-masa.jpg)
+5\. Na **patelni** rozłóż **metalowe ringi** i wysmaruj je olejem. Następnie rozgrzej patelnię na średnim gazie (ja ustawiam 5/10 na mojej płycie).
 
-4\. Rozgrzej **patelnię z olejem** i kiedy będzie gorąca to zetrzyj olej ręcznikiem papierowym. Chodzi o to, żeby patelnia była śliska, ale pankejki były smażone bez oleju.
+Jeśli nie masz ringów, to możesz piec bez nich. Ułatwiają one jednak wszystkie operacje i zapobiegają opadaniu pankejków po usmażeniu.
 
-5\. **Nakładaj ciasto** łyżką. Na dużej patelni powinny zmieścić się trzy pankejki. **Smaż z jednej strony**, aż z góry będzie widać bąbelki powietrza, a z dołu pankejk będzie przyrumieniony. Wtedy **obróć na drugą stronę** i **smaż do zarumienienia**.
+6\. Nakładaj **masę** dużą łyżką, ja używam gałkownicy do lodów. Alternatywnie możesz użyć rękawu cukierniczego.
 
-Podawaj z owocami, syropem klonowym, bitą śmietaną albo cukrem pudrem.
+7\. **Nalej** w kilku miejscach patelni po łyżce wody i **przykryj** pokrywką. Smaż **5 min**, co jakiś czas podlewając łyżkę wody. Pankejki potrzebują pary, żeby ładnie wyrosnąć.
 
-![Pankejki na zakwasie](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/pankejki-na-zakwasie-gotowe.jpg)
+![Puszyste pankejki azjatyckie - smażenie](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-smazenie.jpg)
+
+8\. Przewróć każdego z pankejków **na drugą stronę** i również smaż **5 minut** podlewając co jakiś czas łyżką wody.
+
+9\. Ściągnij patelnię z gazu i **odczekaj** jeszcze około **5 minut** przed podaniem. Zminimalizuje to ryzyko, że pankejki opadną.
+
+![Puszyste pankejki azjatyckie](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-gotowe.jpg)
