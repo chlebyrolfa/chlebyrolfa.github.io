@@ -1,7 +1,7 @@
 ---
 layout: post
-image:  assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie.jpg
-image-small:  assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-small.jpg
+image:  assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie.jpg
+image-small:  assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-small.jpg
 title: Puszyste pankejki azjatyckie
 description: Najbardziej puszyste pankejki na świecie. Znane z Japonii i krajów azjatyckich. Delikatne, sufletowe, rozpływają się w ustach. Puszyste dzięki dużej ilości ubitych białek.
 tags: trudny patelnia proszek
@@ -53,7 +53,7 @@ Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii.
 
 1\. Przygotuj wszystkie składniki i 2 osobne miski. Do pierwszej z nich przełóż **żółtka** i wymieszaj je rózgą. Następnie dodaj **mleko**, **cukier waniliowy** i **szczyptę soli**. Wszystko wymieszaj.
 
-![Puszyste pankejki azjatyckie - składniki](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-skladniki.jpg)
+![Puszyste pankejki azjatyckie - składniki](/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-skladniki.jpg)
 
 2\. Przesiej przez sitko **mąkę i proszek do pieczenia**, wszystko wymieszaj rózgą. Powinna powstać dość gęsta masa.
 
@@ -61,7 +61,7 @@ Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii.
 
 4\. Połącz delikatnie **masy z obu misek**. Najłatwiej zrobić to stopniowo dodając masę z białek do masy z żółtek.
 
-![Puszyste pankejki azjatyckie - mieszanie](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-mieszanie.jpg)
+![Puszyste pankejki azjatyckie - mieszanie](/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-mieszanie.jpg)
 
 5\. Na **patelni** rozłóż **metalowe ringi** i wysmaruj je olejem. Następnie rozgrzej patelnię na średnim gazie (ja ustawiam 5/10 na mojej płycie).
 
@@ -71,10 +71,10 @@ Jeśli nie masz ringów, to możesz piec bez nich. Ułatwiają one jednak wszyst
 
 7\. **Nalej** w kilku miejscach patelni po łyżce wody i **przykryj** pokrywką. Smaż **5 min**, co jakiś czas podlewając łyżkę wody. Pankejki potrzebują pary, żeby ładnie wyrosnąć.
 
-![Puszyste pankejki azjatyckie - smażenie](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-smazenie.jpg)
+![Puszyste pankejki azjatyckie - smażenie](/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-smazenie.jpg)
 
 8\. Przewróć każdego z pankejków **na drugą stronę** i również smaż **5 minut** podlewając co jakiś czas łyżką wody.
 
 9\. Ściągnij patelnię z gazu i **odczekaj** jeszcze około **5 minut** przed podaniem. Zminimalizuje to ryzyko, że pankejki opadną.
 
-![Puszyste pankejki azjatyckie](/assets/images/blog/2020-08-10-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-gotowe.jpg)
+![Puszyste pankejki azjatyckie](/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-gotowe.jpg)
