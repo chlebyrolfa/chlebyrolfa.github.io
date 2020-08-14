@@ -4,7 +4,7 @@ image:  assets/images/blog/2020-07-05-pankejki-na-zakwasie/pankejki-na-zakwasie.
 image-small:  assets/images/blog/2020-07-05-pankejki-na-zakwasie/pankejki-na-zakwasie-small.jpg
 title: Pankejki na zakwasie
 description: Przepis na pankejki na zakwasie. Zdrowe puszyste placki na zakwasie, które można podać z ulubionymi dodatkami. Szybkie danie śniadaniowe utrzymane w duchu zero waste.
-tags: zakwas prosty patelnia proszek-do-pieczenia
+tags: zakwas prosty patelnia proszek
 categories: prawie-chleby
 source-title: VitaLivesFree (Fluffy Sourdough Pancake Recipe)
 source-link: https://youtu.be/JLXkCXHO3s4
