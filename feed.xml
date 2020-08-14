@@ -8,7 +8,30 @@
     <description>Przepisy krok po kroku, gotowe na śniadanie, bez wstawania w środku nocy. Jak upiec chleb w domu? Świeżutki, pachnący, chrupiący, na zakwasie i na drożdżach.</description>
     <link>https://www.chlebyrolfa.pl/</link>
     <atom:link href="https://www.chlebyrolfa.pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Aug 2020 17:15:16 +0000</pubDate>
+    <pubDate>Fri, 14 Aug 2020 18:30:00 +0000</pubDate>
+    
+      <item>
+        <title>Puszyste pankejki azjatyckie</title>
+        
+        <description>Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii. Ich niezwykłość polega na tym, że w rzeczywistości te pankejki to małe suflety, które wyrastają dzięki ubitej pianie z białek. Są delikatne, puszyste i rozpływają się w ustach. Można podawać z lodami, owocami albo, po prostu, syropem klonowym i masłem. Sam przepis nie wygląda na skomplikowany, jednak cała trudność polega na tym, żeby pankejki po ściągnięciu ich z patelni nie opadły. Nie jest to proste i na pewno będzie wymagało kilku podejść. Sprawę nieco ułatwiają metalowe ringi, ale jeśli kolejne próby również nie będą się udawały, to polecam dodać białka z dwóch dodatkowych jajek. Ważne jest dobre ubicie piany z białek i odpowiednia długość trzymania pankejków na patelni. Ale zapewniam, że na prawdę warto, bo nigdy nie jedliście delikatniejszych pankejków!</description>
+        <content:encoded><![CDATA[<img src="https://www.chlebyrolfa.pl/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-small.jpg"/> Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii. Ich niezwykłość polega na tym, że w rzeczywistości te pankejki to małe suflety, które wyrastają dzięki ubitej pianie z białek. Są delikatne, puszyste i rozpływają się w ustach. Można podawać z lodami, owocami albo, po prostu, syropem klonowym i masłem. Sam przepis nie wygląda na skomplikowany, jednak cała trudność polega na tym, żeby pankejki po ściągnięciu ich z patelni nie opadły. Nie jest to proste i na pewno będzie wymagało kilku podejść. Sprawę nieco ułatwiają metalowe ringi, ale jeśli kolejne próby również nie będą się udawały, to polecam dodać białka z dwóch dodatkowych jajek. Ważne jest dobre ubicie piany z białek i odpowiednia długość trzymania pankejków na patelni. Ale zapewniam, że na prawdę warto, bo nigdy nie jedliście delikatniejszych pankejków!]]></content:encoded>
+        
+        
+        <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-small.jpg" medium="image" width="600"/>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chlebyrolfa.pl/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-small.jpg" width="600"/>
+        
+        <!-- pubDate is the end of the day -->
+        <pubDate>Fri, 14 Aug 2020 23:59:59 +0000</pubDate>
+        <link>https://www.chlebyrolfa.pl/puszyste-pankejki-azjatyckie/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/puszyste-pankejki-azjatyckie/</guid>
+        
+        <category>trudny</category>
+        
+        <category>patelnia</category>
+        
+        <category>proszek</category>
+        
+      </item>
     
       <item>
         <title>Pszenny chleb południowy</title>
@@ -108,7 +131,7 @@
         
         <category>patelnia</category>
         
-        <category>proszek-do-pieczenia</category>
+        <category>proszek</category>
         
       </item>
     
