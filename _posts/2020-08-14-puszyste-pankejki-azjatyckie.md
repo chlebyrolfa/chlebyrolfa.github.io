@@ -55,7 +55,7 @@ Pankejki znane z wielu azjatyckich krajów: Japonii, Tajwanu, Korei i Tajlandii.
 
 ![Puszyste pankejki azjatyckie - składniki](/assets/images/blog/2020-08-14-puszyste-pankejki-azjatyckie/puszyste-pankejki-azjatyckie-skladniki.jpg)
 
-2\. Przesiej przez sitko **mąkę i proszek do pieczenia**, wszystko wymieszaj rózgą. Powinna powstać dość gęsta masa.
+2\. Przesiej przez sitko **mąkę i proszek do pieczenia**, wszystko wymieszaj rózgą. Powstanie dość gęsta masa.
 
 3\. Do drugiej miski przełóż **białka z jajek** i ubij mikserem. Przy końcu ubijania dodaj stopniowo **cukier puder**. Masa powinna być zupełnie sztywna.
 
