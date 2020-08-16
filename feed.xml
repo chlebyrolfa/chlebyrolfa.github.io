@@ -11,7 +11,16 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    {% for post in site.posts limit:1 %}
+    {% capture sitetime %}{{ site.time | date: '%s' }}{% endcapture %}
+    {% capture lastposttime %}{{ post.date | date: '%s' }}{% endcapture %}
+    {% if lastposttime > sitetime %}
+    <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
+    {% else %}
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    {% endif %}
+    {% endfor %}
+
     {% for post in site.posts limit:25 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
