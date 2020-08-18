@@ -13,7 +13,7 @@ amount: 8 muffinek
 
 -----
 
-TODO
+Zdrowe, smaczne, ...
 
 -----
 
