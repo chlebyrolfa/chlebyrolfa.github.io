@@ -32,7 +32,7 @@ pagination:
   collection: 'posts'
   sort_reverse: true
   per_page: 12
-  permalink: '/page/:num/'
+  permalink: '/page:num/'
   category: 'posts'
     
 # Other
