@@ -1,7 +1,7 @@
 ---
 layout: post
 image:  assets/images/blog/2020-08-20-owsiane-muffinki/owsiane-muffinki.jpg
-# image-small:  assets/images/blog/2020-08-20-owsiane-muffinki/owsiane-muffinki-small.jpg
+image-small:  assets/images/blog/2020-08-20-owsiane-muffinki/owsiane-muffinki-small.jpg
 title: Owsiane muffinki śniadaniowe
 description: Zdrowe, smaczne, szybkie do przygotowania śniadanie. Wspaniała alternatywa dla chleba i kanapek. Smakują świetnie również na zimno, więc można je zabrać na pinkik albo wycieczkę.
 tags: prosty proszek
