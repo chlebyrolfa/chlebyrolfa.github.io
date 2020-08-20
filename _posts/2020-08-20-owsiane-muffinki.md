@@ -14,7 +14,7 @@ when-to-start: bezpośrednio przed wypiekiem
 
 -----
 
-Zdrowe, smaczne, szybkie do przygotowania śniadanie. Owsiane muffinki są wspaniałą alternatywą do pieczywa i nadają się świetnie na piknik czy wycieczkę. Można je piec z różnego rodzaju owocami. Ja najbardziej lubię z malinami, borówkami amerykańskimi i jagodami. Można też, zamiast owoców, dodać orzechy. Pysznie smakują zarówno same, jak i podane z jogurtem i owocami.
+Zdrowe, smaczne, szybkie do przygotowania śniadanie. Owsiane muffinki są wspaniałą alternatywą dla pieczywa i nadają się świetnie na piknik czy wycieczkę. Można je piec z różnego rodzaju owocami. Ja najbardziej lubię z malinami, borówkami amerykańskimi lub jagodami. Można też, zamiast owoców, dodać orzechy. Pysznie smakują zarówno same, jak i podane z jogurtem i owocami.
 
 -----
 
@@ -43,11 +43,11 @@ Zdrowe, smaczne, szybkie do przygotowania śniadanie. Owsiane muffinki są wspan
 
 ## W skrócie
 
-1. W misce rozgnieć widelcem **banana**
+1. W misce rozgnieć **banana** widelcem
 2. Dodaj **jajko** i wymieszaj
 3. Dodaj **miód, proszek do pieczenia, cynamon, tarte orzechy, sól, cukier waniliowy, jogurt** i wszystko wymieszaj
 4. Dodaj **płatki owsiane** i wymieszaj
-5. Dodaj **mleko** i wymieszać
+5. Dodaj **mleko** i wymieszaj
 6. Wysmaruj foremki **oliwą**
 7. Nałóż **pierwszą warstwę** masy do foremek i dodaj **kilka owoców**
 8. Nałóż **drugą warstwę** masy do foremek i dodaj **kilka owoców**
