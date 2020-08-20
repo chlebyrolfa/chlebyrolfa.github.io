@@ -13,7 +13,7 @@ layout: null
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     {% for post in site.posts limit:1 %}
     {% capture sitetime %}{{ site.time | date: '%s' }}{% endcapture %}
-    {% capture lastposttime %}{{ post.date | date: '%s' }}{% endcapture %}
+    {% capture lastposttime %}{{ post.date | date: '%s' | plus:86399 }}{% endcapture %}
     {% if lastposttime > sitetime %}
     <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
     {% else %}
@@ -39,7 +39,7 @@ layout: null
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" width="600"/>
         {% endif %}
         <!-- pubDate is the end of the day -->
-        <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>
+        <pubDate>{{ post.date | date:'%s' | plus:86300 |  date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         {% for tag in post.tags %}
