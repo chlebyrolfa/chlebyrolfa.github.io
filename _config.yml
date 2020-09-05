@@ -31,7 +31,7 @@ pagination:
   debug: false
   collection: 'posts'
   sort_reverse: true
-  per_page: 12
+  per_page: 6
   permalink: '/page:num/'
   category: 'posts'
     
