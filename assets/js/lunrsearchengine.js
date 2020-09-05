@@ -23,12 +23,12 @@ var documents = [{
     "id": 4,
     "url": "https://www.chlebyrolfa.pl/index.html",
     "title": "Chleby Rolfa | Przepis krok po kroku",
-    "body": "      Chleby       {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}      {% include pagination. html %}"
+    "body": "      Chleby       {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 5,
     "url": "https://www.chlebyrolfa.pl/page2/index.html",
     "title": "Chleby Rolfa | Przepis krok po kroku - page 2",
-    "body": "      Chleby       {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}      {% include pagination. html %}"
+    "body": "      Chleby       {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 6,
     "url": "https://www.chlebyrolfa.pl/nie-chleby/index.html",
