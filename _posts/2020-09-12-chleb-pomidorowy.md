@@ -1,4 +1,4 @@
-R---
+---
 layout: post
 image:  assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy.jpg
 # image-small: assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-small.jpg
