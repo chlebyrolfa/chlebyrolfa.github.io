@@ -1,7 +1,7 @@
 ---
 layout: post
 image:  assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy.jpg
-# image-small: assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-small.jpg
+image-small: assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-small.jpg
 title: Chleb pomidorowy
 description: Niezwykły chleb z pomidorami. Czerwony, soczysty i jedyny w swoim rodzaju. Pszenny, na drożdżach, pieczony w garnku żeliwnym.
 tags: drozdze trudny garnek wege
