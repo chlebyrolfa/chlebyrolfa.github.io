@@ -1,4 +1,4 @@
----
+R---
 layout: post
 image:  assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy.jpg
 # image-small: assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-small.jpg
@@ -12,7 +12,7 @@ when-to-start: po południu poprzedniego dnia
 
 -----
 
-Czerwony chleb ze świeżymi pomidorami. Bardzo rzadko spotykany. Zaskakuje kolorem i intensywnym smakiem. Przepis na niego dostałem od mojej przyjaciółki, która wysłała mi zdjęcie ze starej książki. Nieco go jednak zmodyfikowałem. Ja korzystam z techniki powolnego ręcznego przekładania ciasta, bez użycia jakichkolwiek urządzeń. Wychodzi przepyszny! Ze względu na swój intensywny smak, idealnie pasuje do wszelkiego rodzaju mięs grillowanych i sałat. Ja uwielbiam go też z lekkim śmietankowym serkiem, pomidorem i solą gruboziarnistą.
+educe Czerwony chleb ze świeżymi pomidorami. Bardzo rzadko spotykany. Zaskakuje kolorem i intensywnym smakiem. Przepis na niego dostałem od mojej przyjaciółki, która wysłała mi zdjęcie ze starej książki. Nieco go jednak zmodyfikowałem. Ja korzystam z techniki powolnego ręcznego przekładania ciasta, bez użycia jakichkolwiek urządzeń. Wychodzi przepyszny! Ze względu na swój intensywny smak, idealnie pasuje do wszelkiego rodzaju mięs grillowanych i sałatek. Ja uwielbiam go też z lekkim śmietankowym serkiem, plasterkiem pomidora posypanego gruboziarnistą solą.
 
 -----
 
@@ -74,7 +74,7 @@ Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do
 
 ![Chleb pomidorowy - mieszanie](/assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-mieszanie.jpg)
 
-9\. Rano masa powinna być rozlana, dość płynna i klejąca. **Oprósz blat mąką** i przełóż na niego ciasto. Obsyp ręce mąką i złóż ciasto z **4 boków**. Powinien uformować się coś przypominającego pakunek. Wygładź nieco z boków, żeby zrobiła się kulka, gluten powinien trzymać strukturę chleba.
+9\. Rano masa powinna być rozlana, dość płynna i klejąca. **Oprósz blat mąką** i przełóż na niego ciasto. Obsyp ręce mąką i złóż ciasto z **4 boków**. Powinno uformować się coś przypominającego pakunek. Wygładź nieco z boków, żeby zrobiła się kulka, gluten powinien trzymać strukturę chleba.
 
 10\. Obsyp solidnie **koszyk do wyrastania** mąką, po czym przełóż do niego uformowany bochenek chleba. Koszyk włóż do **torby foliowej** i odstaw na **50 minut** w temperaturze pokojowej. W międzyczasie włóż garnek żeliwny do piekarnika i ustaw na **250 stopni**.
 
@@ -89,5 +89,3 @@ Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do
 13\. Piecz **20 minut** pod przykryciem i **22 minuty** bez przykrycia. Wierz chleba powinien być delikatnie spieczony, stukanie w niego powinno wydawać głuchy dźwięk. Wyciągnij chleb z garnka i przełóż na kratkę kuchenną.
 
 ![Chleb pomidorowy](/assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-gotowy.jpg)
-
-![Chleb pomidorowy](/assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-gotowy-2.jpg)
