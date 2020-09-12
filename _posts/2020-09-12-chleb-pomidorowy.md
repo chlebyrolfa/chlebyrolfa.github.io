@@ -12,7 +12,7 @@ when-to-start: po południu poprzedniego dnia
 
 -----
 
-educe Czerwony chleb ze świeżymi pomidorami. Bardzo rzadko spotykany. Zaskakuje kolorem i intensywnym smakiem. Przepis na niego dostałem od mojej przyjaciółki, która wysłała mi zdjęcie ze starej książki. Nieco go jednak zmodyfikowałem. Ja korzystam z techniki powolnego ręcznego przekładania ciasta, bez użycia jakichkolwiek urządzeń. Wychodzi przepyszny! Ze względu na swój intensywny smak, idealnie pasuje do wszelkiego rodzaju mięs grillowanych i sałatek. Ja uwielbiam go też z lekkim śmietankowym serkiem, plasterkiem pomidora posypanego gruboziarnistą solą.
+Czerwony chleb ze świeżymi pomidorami. Bardzo rzadko spotykany. Zaskakuje kolorem i intensywnym smakiem. Przepis na niego dostałem od mojej przyjaciółki, która wysłała mi zdjęcie ze starej książki. Nieco go jednak zmodyfikowałem. Robiąc go, korzystam z techniki powolnego ręcznego przekładania ciasta, bez użycia jakichkolwiek urządzeń. I chleb wychodzi przepyszny! Ze względu na swój intensywny smak, idealnie pasuje do wszelkiego rodzaju mięs grillowanych i sałatek. Ja uwielbiam go też z lekkim śmietankowym serkiem i plasterkiem pomidora posypanego gruboziarnistą solą.
 
 -----
 
@@ -46,9 +46,9 @@ educe Czerwony chleb ze świeżymi pomidorami. Bardzo rzadko spotykany. Zaskakuj
 8. Przykryj **folią spożywczą** i odstaw na **noc**
 9. Rano umieść ciasto na **oprószonym mąką blacie**, **przełóż** z czterech stron i **uformuj** bochenek
 10. Oprósz mąką **koszyk do wyrastania**, umieść tam bochenek, włóż do **torby foliowej** i odstaw na **50 minut**
-11. Przełóż chleb na **deskę obsypaną mąką**, posmaruj wierz chleba wodą i posyp **suszonym oregano**.
+11. Przełóż chleb na **deskę obsypaną mąką**, posmaruj wierzch chleba wodą i posyp **suszonym oregano**.
 12. Przełóż chleb do rozgrzanego do **250 stopni** garnka żeliwnego
-13. Piecz **20 minut** pod przykrycie i **20 minut** bez przykrycia
+13. Piecz **20 minut** pod przykryciem i **20 minut** bez przykrycia
 
 -----
 
@@ -76,7 +76,7 @@ Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do
 
 9\. Rano masa powinna być rozlana, dość płynna i klejąca. **Oprósz blat mąką** i przełóż na niego ciasto. Obsyp ręce mąką i złóż ciasto z **4 boków**. Powinno uformować się coś przypominającego pakunek. Wygładź nieco z boków, żeby zrobiła się kulka, gluten powinien trzymać strukturę chleba.
 
-10\. Obsyp solidnie **koszyk do wyrastania** mąką, po czym przełóż do niego uformowany bochenek chleba. Koszyk włóż do **torby foliowej** i odstaw na **50 minut** w temperaturze pokojowej. W międzyczasie włóż garnek żeliwny do piekarnika i ustaw na **250 stopni**.
+10\. Obsyp solidnie **koszyk do wyrastania** mąką, po czym przełóż do niego uformowany bochenek chleba. Koszyk włóż do **torby foliowej** i odstaw na **50 minut** w temperaturze pokojowej. W międzyczasie włóż garnek żeliwny do piekarnika i temperaturę ustaw na **250 stopni**.
 
 ![Chleb pomidorowy - formowanie](/assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-formowanie.jpg)
 
@@ -84,8 +84,8 @@ Zwilż ręce wodą i chwyć za jeden z boków ciasta. Naciągnij go i złóż do
 
 ![Chleb pomidorowy - smarowanie](/assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-smarowanie.jpg)
 
-12\. Wyciągnij **garnek żeliwny** z piekarnika, ściągnij pokrywkę i oprósz wnętrze delikatnie mąką. Przełóż do niego chleb. Najłatwiej to zrobić po prostu chwytając ciasto w ręce i wkładając do garnka. Włóż garnek do piekarnika, zmniejsz temperaturę do **230 stopni**.
+12\. Wyciągnij **garnek żeliwny** z piekarnika, ściągnij pokrywkę i delikatnie oprósz wnętrze mąką. Przełóż do niego chleb. Najłatwiej to zrobić po prostu chwytając ciasto w ręce i wkładając do garnka. Włóż garnek do piekarnika, zmniejsz temperaturę do **230 stopni**.
 
-13\. Piecz **20 minut** pod przykryciem i **22 minuty** bez przykrycia. Wierz chleba powinien być delikatnie spieczony, stukanie w niego powinno wydawać głuchy dźwięk. Wyciągnij chleb z garnka i przełóż na kratkę kuchenną.
+13\. Piecz **20 minut** pod przykryciem i **22 minuty** bez przykrycia. Wierzch chleba powinien być delikatnie spieczony, stukanie w niego powinno wydawać głuchy dźwięk. Wyciągnij chleb z garnka i przełóż na kratkę kuchenną.
 
 ![Chleb pomidorowy](/assets/images/blog/2020-09-12-chleb-pomidorowy/chleb-pomidorowy-gotowy.jpg)
