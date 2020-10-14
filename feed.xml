@@ -12,10 +12,33 @@
     
     
     
-    <pubDate>Sat, 12 Sep 2020 23:59:59 +0000</pubDate>
+    <pubDate>Wed, 14 Oct 2020 23:59:59 +0000</pubDate>
     
     
 
+    
+      <item>
+        <title>Bliny z sosem makowym</title>
+        
+        <description>Bliny to tradycyjne drożdżowe placuszki, znane z kuchni rosyjskiej. Ich charakterystyczną cechą, odróżniającą od wszystkich innych tego typu dań, jest zawartość mąki gryczanej, która nadaje przepyszny smak i aromat. Bliny można podawać zarówno na słodko, jak i na słono. Ja proponuję moją ulubioną kompozycję, czyli bliny z sosem makowym. Inne bardzo znane połączenia to bliny z łososiem i bliny z kawiorem. W słodkich wersjach często można spotkać po prostu bliny z cukrem pudrem albo owocami.</description>
+        <content:encoded><![CDATA[<img src="https://www.chlebyrolfa.pl/assets/images/blog/2020-10-14-bliny/bliny-small.jpg"/> Bliny to tradycyjne drożdżowe placuszki, znane z kuchni rosyjskiej. Ich charakterystyczną cechą, odróżniającą od wszystkich innych tego typu dań, jest zawartość mąki gryczanej, która nadaje przepyszny smak i aromat. Bliny można podawać zarówno na słodko, jak i na słono. Ja proponuję moją ulubioną kompozycję, czyli bliny z sosem makowym. Inne bardzo znane połączenia to bliny z łososiem i bliny z kawiorem. W słodkich wersjach często można spotkać po prostu bliny z cukrem pudrem albo owocami.]]></content:encoded>
+        
+        
+        <media:content url="https://www.chlebyrolfa.pl/assets/images/blog/2020-10-14-bliny/bliny-small.jpg" medium="image" width="600"/>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chlebyrolfa.pl/assets/images/blog/2020-10-14-bliny/bliny-small.jpg" width="600"/>
+        
+        <!-- pubDate is the end of the day -->
+        <pubDate>Wed, 14 Oct 2020 23:58:20 +0000</pubDate>
+        <link>https://www.chlebyrolfa.pl/bliny/</link>
+        <guid isPermaLink="true">https://www.chlebyrolfa.pl/bliny/</guid>
+        
+        <category>drozdze</category>
+        
+        <category>prosty</category>
+        
+        <category>patelnia</category>
+        
+      </item>
     
       <item>
         <title>Chleb pomidorowy</title>
