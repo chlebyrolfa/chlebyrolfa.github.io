@@ -1,7 +1,7 @@
 ---
 layout: post
-image:  assets/images/blog/2020-10-18-chlebek-cynamonowy/chlebek-cynamonowy-1.jpg
-image-small:  assets/images/blog/2020-10-18-chlebek-cynamonowy/chlebek-cynamonowy-1.jpg
+image:  assets/images/blog/2020-10-18-chlebek-cynamonowy/chlebek-cynamonowy.jpg
+image-small:  assets/images/blog/2020-10-18-chlebek-cynamonowy/chlebek-cynamonowy-small.jpg
 title: Chlebek cynamonowy
 description: Chlebek cynamonowy to idealne śniadanie na jesienne dni. Pasuje do kawy, herbaty i gorącej czekolady. Dosłownie rozpływa się w ustach.
 categories: chleby
@@ -15,7 +15,7 @@ when-to-start: 3 godziny wcześniej (albo wieczorem poprzedniego dnia)
 
 -----
 
-Chlebek cynamonowy. Idealny na chłodne jesienne dni do ciepłej kawy, herbaty albo gorącej czekolady. Dosłownie rozpływa się w ustach. Idealny na pierwsze albo drugie śniadanie. Rwie się go rękami po pasku tworzącym artystyczne fale. Stanowi bardzo ciekawą alternatywę do [bułeczek cynamonowych (cynamonek)]({% post_url 2020-04-26-cynamonki %}). Na drugi dzień świetnie smakuje stostowany albo podgrzany na patelni. Ja zwykle go jem solo albo można też podawać z wszelkiego rodzaju słodkimi pastami. Smacznego!
+Chlebek cynamonowy. Idealny na chłodne jesienne dni do ciepłej kawy, herbaty albo gorącej czekolady. Dosłownie rozpływa się w ustach. Idealny na pierwsze albo drugie śniadanie. Rwie się go rękami pasek za paskiem tworzącym artystyczne fale. Stanowi bardzo ciekawą alternatywę do [bułeczek cynamonowych (cynamonek)]({% post_url 2020-04-26-cynamonki %}). Na drugi dzień świetnie smakuje stostowany albo podgrzany na patelni. Ja zwykle go jem solo, ale można go też podać ze wszelkiego rodzaju słodkimi pastami. Smacznego!
 
 -----
 
@@ -53,8 +53,8 @@ Chlebek cynamonowy. Idealny na chłodne jesienne dni do ciepłej kawy, herbaty a
 6. Wymieszaj **wszystkie składniki na nadzienie**
 7. Ciasto **rozwałkuj na prostokąt 50x35 cm** i **posmaruj nadzieniem**
 8. Przetnij ciasto na **6 identycznych pasków** wzdłuż krótszego boku
-9. Nałóż na siebie **3 paski** i przetnij je na **4 części** (powstanie **8 identycznych stosów**)
-10. Przełóż **stosy** do silikonowej (albo stalowej) **formy**
+9. Nałóż na siebie po **3 paski** i przetnij je na **4 części** (powstanie **8 identycznych stosów**)
+10. Przełóż **stosy** pionowo do silikonowej (albo stalowej) **formy**
 11. Przykryj i odstaw na **30 minut**
 12. Posmaruj **jajkiem rozbełtanym z 1 łyżką wody**
 13. Piecz **30 minut** w temperaturze **180 stopni**
@@ -66,7 +66,7 @@ Chlebek cynamonowy. Idealny na chłodne jesienne dni do ciepłej kawy, herbaty a
 
 1\. W misce wymieszaj łyżką wszystkie suche składniki: **450 g mąki**, **1/2 łyżeczki soli** i **50 g cukru**.
 
-2\. W garnuszku rozpuść **60 g masła**. **160 g mleka** powinno być w temperaturze pokojowej (jeśli trzymasz je w lodówce to podgrzej do temperatury pokojowej). 
+2\. W garnuszku rozpuść **60 g masła**. **160 g mleka** powinno być w temperaturze pokojowej (jeśli trzymasz je w lodówce, to podgrzej do temperatury pokojowej). 
 
 3\. Wymieszaj wszystkie płynne składniki: **160 g mleka**, **60 g masła**, **2 jajka** i **10 g świeżych drożdży**.
 
@@ -84,7 +84,7 @@ Chlebek cynamonowy. Idealny na chłodne jesienne dni do ciepłej kawy, herbaty a
 
 8\. Korzystając z ostrego noża (albo nożyka do pizzy) **przetnij** ciasto wzłuż krótszego boku na **6 równych pasków**.
 
-9\. Nałóż na siebie **3 paski** i powstały stos przetnij na **4 prostkąty**. W sumie powinno powstać **8 ideantycznych prostkątnych stosów**.
+9\. Nałóż na siebie po **3 paski** i powstały stos przetnij na **4 prostkąty**. W sumie powinno powstać **8 ideantycznych prostkątnych stosów** (każdy po 3 kawałki).
 
 ![Chlebek cynamonowy - nacinanie](/assets/images/blog/2020-10-18-chlebek-cynamonowy/chlebek-cynamonowy-nacinanie.jpg)
 
@@ -94,7 +94,7 @@ Chlebek cynamonowy. Idealny na chłodne jesienne dni do ciepłej kawy, herbaty a
 
 11\. **Przykryj formę** folią aluminiową albo ściereczką kuchenną. Odstaw na **30 minut** w temperaturze pokojowej.
 
-12\. Rozbełtaj **jajko** z łyżką ciepłej wody. WystWysmaruj nimi wierzch chleba.
+12\. Rozbełtaj **jajko** z łyżką ciepłej wody. Wysmaruj nim wierzch chleba.
 
 ![Chlebek cynamonowy - smarowanie](/assets/images/blog/2020-10-18-chlebek-cynamonowy/chlebek-cynamonowy-smarowanie.jpg)
 
