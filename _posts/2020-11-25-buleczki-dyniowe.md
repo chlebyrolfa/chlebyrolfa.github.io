@@ -22,14 +22,14 @@ Przepiękne dekoracyjne słodkie bułeczki idealnie pasujące do jesiennej aury.
 
 ##### Ciasto
 
+* 130 g (upieczonej) dyni albo puree dyniowego
 * 42 g masła
 * 120 g mleka
-* 370 g mąki pszennej chlebowej (typ 750)
-* 12 g świeżych drożdży
-* 1/2 łyżeczki (3 g) soli
-* 50 g cukru
-* 130 g (upieczonej) dyni albo puree dyniowego
 * 1 jajko
+* 12 g świeżych drożdży
+* 50 g cukru
+* 370 g mąki pszennej chlebowej (typ 750)
+* 1/2 łyżeczki (3 g) soli
 
 ##### Dodatkowo
 
@@ -43,7 +43,7 @@ Przepiękne dekoracyjne słodkie bułeczki idealnie pasujące do jesiennej aury.
 1. **Dynię** pokrój, usuń miąższ i piecz **1 godzinę** w **180 stopniach**
 2. **Masło** rozpuść i dodaj do obranej i zblendowanej **dyni**
 3. Dodaj **1/2 jajka**, **mleko** i **drożdże**, wymieszaj łyżką
-4. Dodaj suche składniki: **cukier**, **sól** i **mąkę**
+4. Dodaj suche składniki: **cukier**, **mąkę** i **sól**
 5. Wyrabiaj hakiem przez **10 minut**, przełóż do miski wysmarowanej **oliwą z oliwek**
 6. Przykryj miskę **folią spożywczą** i odstaw na **1 godzinę** w temperaturze pokojowej (albo na noc do lodówki)
 7. Przełóż ciasto na blat, podziel na **15 równych części** i z każdej z nich uformuj **kulkę**
@@ -52,8 +52,8 @@ Przepiękne dekoracyjne słodkie bułeczki idealnie pasujące do jesiennej aury.
 10. Przykryj blachę ściereczką i odstaw na **50 minut**
 11. **Zrób dziurkę** w środku każdej bułeczki
 12. Wysmaruj **1/2 jajkabozbełtanym z 1 łyżką wody** wierz bułeczek
-11. Piecz **20 minut** w temperaturze **180 stopni**
-12. **Udekoruj** każdą z bułeczek **połówką orzecha pekan**
+13. Piecz **20 minut** w temperaturze **180 stopni**
+14. **Udekoruj** każdą z bułeczek **połówką orzecha pekan**
 
 -----
 
@@ -63,24 +63,30 @@ Przepiękne dekoracyjne słodkie bułeczki idealnie pasujące do jesiennej aury.
 
 Alternatywnie możesz użyć gotowego puree z dyni.
 
-2\. Rozpuść **110 g masła** w garnuszku i dodaj do dyni. Wszystko wymieszaj widelcem.
+2\. Rozpuść **42 g masła** w garnuszku i dodaj do dyniowego puree. Wszystko wymieszaj widelcem.
 
-3\. Do tej samej miski dodaj **2 jajka** i **15 g świeżych drożdży**. Wszystko dobrze wymieszaj.
+3\. Do tej samej miski dodaj **pół rozbełtanego jajka** (drugie pół jajka zostaw na później, przyda się do wystarowania bułeczek przed pieczeniem). Dodaj **12 g świeżych drożdży** i wszystko dobrze wymieszaj widelcem.
 
-4\. W osobnej misce umieść wszystkie suche składniki: **400 g mąki, 36 g cukru i 6 g soli**. Wszystko wymieszaj.
+4\. Dodaj suche składniki: **50 g cukru**, **370 g mąki** i **3 g soli**. Wszystko wymieszaj.
 
-5\. Dodaj **mokre składniki** do **suchych składników** i wszystko dobrze wymieszaj łyżką. Następnie umieść wszystko w robocie kuchennym i wyrabiaj hakiem przez **8 minut**.
+5\. Umieść miskę w robocie kuchennym i **wyrabiaj hakiem** na wysokich obrotach przez **10 minut**. Masa powinna być zwarta i lekko kleista. Przełóż masę do miski wysmarowanej oliwą z oliwek.
 
-6\. Przykruj miskę **folią spożywczą** i umięść w lodówce na **16-24 godziny**. Po tym czasie ciasto powinno być zwarte i wyrośnięte mniej więcej dwukrotnie.
+6\. Przykryj miskę **folią spożywczą** i odstaw na **1 godzinę** w temperaturze pokojowej. Alternatywnie, zamiast w temperaturze pokojowej, możesz umieścić miskę w lodówce na całą noc.
 
-7\. Następnego dnia oprósz blat mąką i przełóż masę na blat. Posyp wierz mąką i rozgnieć ciasto, żeby je nieco wygazować. Podziel ciasto na **3 równe części** i z każdej z nich w rękach uformuj kulkę.
+7\. Przełóż ciasto na blat oprószony mąką oprószony mąką. Posyp wierz mąką i zagnieć ciasto. Następnie podziel na **15 równych części** i każdej z nich uformuj kulkę. Powinna ważyć mniej więcej 45-60 g.
 
-8\. Przygotuj **formę**. Jeśli masz silikonową to wysmaruj ją **oliwą z oliwek**. Metalową formę lepiej wyłóż papierem do pieczenia. Przełąż kilki do formy.
+8\. Umieść kulki na **blasze wyłożonej papierem do pieczenia**. Następnie każdą z kulek **rozpłaszcz** delikatnie ręką.
 
-9\. **Przykryj** formę ściereczką (albo **włóż do torby plastikowej**) i odstaw na **1 godzinę** w temperaturze pokojowej.
+9\. Teraz czas, żeby nadać bułeczkom **kształt dyń**. Jest wiele sposobób, żeby to zrobić, ale moim zdaniem najprościej użyć nożyczek. W miseczce nalej nieco oleju albo oliwy. Maczaj końcówki nożyczek i nacinaj każdą z bułeczek 7-8 razy. Powstaną w ten sposób takie gwiazdki, które po upieczeniu będą wyglądać jak dynie.
 
-10\. Rozbełtaj **1 jajko z 1 łyżką wody**. Wysmaruj nimi wierz chleba.
+10\. **Przykryj** bułeczki ściereczką kuchenną i ostaw na **50 minut** w temperaturze pokojowej.
 
-11\. Rozgrzej piekarnik do temperatury **180 stopni** i umieść formę w piekarniku na **35 minut**. Po tym wierz chleba powinien być pięknie zarumieniony.
+11\. W każdej bułeczce zrób **dziurkę w środku**. Najłatwiej zrobić to wbijając naolejony patyczkiem do sushi w środek bułeczki.
 
-![Chleb dyniowy](/assets/images/blog/2020-11-05-chleb-dyniowy/chleb-dyniowy.jpg)
+12\. Pół jajka, które zostało z przepisu wymieszaj z łyżką wody. **Wysmaruj** nimi wierz każdej z bułek.
+
+13\. Nagrzej piekarnik do **180 stopni**, po czym włóż blachę z bułeczkami. Piecz **20 minut**.
+
+14\. Po wyciągnięciu bułeczek **udekoruj je** wbijając w środek każdej z nich połówkę **orzecha pekan**.
+
+![Chleb dyniowy](/assets/images/blog/2020-11-25-buleczki-dyniowe/buleczki-dyniowe-gotowe.jpg)
