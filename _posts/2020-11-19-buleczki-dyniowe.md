@@ -1,7 +1,7 @@
 ---
 layout: post
-image:  assets/images/blog/2020-11-25-buleczki-dyniowe/buleczki-dyniowe.jpg
-image-small:  assets/images/blog/2020-11-25-buleczki-dyniowe/buleczki-dyniowe-small.jpg
+image:  assets/images/blog/2020-11-19-buleczki-dyniowe/buleczki-dyniowe.jpg
+image-small:  assets/images/blog/2020-11-19-buleczki-dyniowe/buleczki-dyniowe-small.jpg
 title: Bułeczki dyniowe
 description: Bułeczki dyniowe to przepiękne dekoracyjne słodkie bułeczki, które idealnie pasują do jesiennej aury. Idealne na Halloween i bale Andrzejkowe!
 categories: chleby
@@ -73,6 +73,8 @@ Alternatywnie możesz użyć gotowego puree z dyni.
 
 6\. Przykryj miskę **folią spożywczą** i odstaw na **1 godzinę** w temperaturze pokojowej. Alternatywnie, zamiast w temperaturze pokojowej, możesz umieścić miskę w lodówce na całą noc.
 
+![Bułeczki dyniowe - mieszanie](/assets/images/blog/2020-11-19-buleczki-dyniowe/buleczki-dyniowe-mieszanie.jpg)
+
 7\. Przełóż ciasto na blat oprószony mąką oprószony mąką. Posyp wierz mąką i zagnieć ciasto. Następnie podziel na **15 równych części** i każdej z nich uformuj kulkę. Powinna ważyć mniej więcej 45-60 g.
 
 8\. Umieść kulki na **blasze wyłożonej papierem do pieczenia**. Następnie każdą z kulek **rozpłaszcz** delikatnie ręką.
@@ -85,8 +87,10 @@ Alternatywnie możesz użyć gotowego puree z dyni.
 
 12\. Pół jajka, które zostało z przepisu wymieszaj z łyżką wody. **Wysmaruj** nimi wierz każdej z bułek.
 
+![Bułeczki dyniowe - przygotowanie](/assets/images/blog/2020-11-19-buleczki-dyniowe/buleczki-dyniowe-przygotowanie.jpg)
+
 13\. Nagrzej piekarnik do **180 stopni**, po czym włóż blachę z bułeczkami. Piecz **20 minut**.
 
 14\. Po wyciągnięciu bułeczek **udekoruj je** wbijając w środek każdej z nich połówkę **orzecha pekan**.
 
-![Chleb dyniowy](/assets/images/blog/2020-11-25-buleczki-dyniowe/buleczki-dyniowe-gotowe.jpg)
+![Bułeczki dyniowe - dekoracja](/assets/images/blog/2020-11-19-buleczki-dyniowe/buleczki-dyniowe-dekoracja.jpg)
