@@ -15,7 +15,7 @@ when-to-start: 24 godziny przed wypiekiem
 
 -----
 
-Jesienny czas napawa aurą na przygotowywanie wszystkiego z dyni. Ja proponuję dyniową alternatywę do broszki, która wykorzystuje puree z upieczonej dyni zamiast zwykle stosowanej wody czy mleka. Chleb jest przepyszny, lekko słodkawy, z pięknym pomarańczowym kolorem. Smakuje idealnie z domowymi konfiturami albo po prostu z samym masłem. Utrzymuje świeżość przez wiele dni i można go tostować albo wykorzystać do tostów francuskich.
+Jesienna aura napawa chęcią na przepisy z dynią w roli głównej. Ja proponuję dyniową alternatywę do broszki, chlebek dyniowy. W przepisie wykorzystuję puree z upieczonej dyni, zamiast zwykle stosowanej wody czy mleka. Chleb jest przepyszny, lekko słodkawy, o pięknym pomarańczowym kolorze. Smakuje idealnie z domowymi konfiturami albo po prostu z samym masłem. Utrzymuje świeżość przez wiele dni, choć można go też tostować czy wykorzystać do tostów francuskich.
 
 -----
 
@@ -40,16 +40,16 @@ Jesienny czas napawa aurą na przygotowywanie wszystkiego z dyni. Ja proponuję 
 
 ## W skrócie
 
-1. **Dynię** pokrój, usuń miąższ i piecz **1 godzinę** w **180 stopniach**
+1. **Dynię** pokrój, usuń pestki i miąższ i piecz **1 godzinę** w **180 stopniach**
 2. **Masło** rozpuść i dodaj do rozgniecionej i obranej **dyni**
-3. Dodaj **jajka** i **drożdże** i wymieszaj łyżką
+3. Dodaj **jajka** i **drożdże**, wymieszaj łyżką
 4. W osobnej misce wymieszaj suche składniki: **mąkę**, **sól** i **cukier**
 5. Dodaj **mokre składniki** do **suchych składników** i wyrabiaj hakiem przez **5 minut**
 6. Przykryj miskę **folią spożywczą** i umieść w lodówce na **16-24 godzin**
 7. Przełóż ciasto na blat, podziel na **3 równe części** i z każdej z nich uformuj **kulkę**
-8. Umieść **kulki** w formie wysmarowanej **oliwą** (albo wyłożonej papierem do pieczenia)
+8. Umieść **kulki** obok siebie w formie wysmarowanej **oliwą** (albo wyłożonej papierem do pieczenia)
 9. Przykryj i odstaw na **1 godzinę**
-10. Wysmaruj **jajkiem rozbełtanym z 1 łyżką wody** wierz chleba
+10. Wysmaruj wierzch chleba **jajkiem rozbełtanym z 1 łyżką wody**
 11. Piecz **35 minut** w temperaturze **180 stopni**
 
 -----
@@ -72,7 +72,7 @@ Alternatywnie możesz użyć gotowego puree z dyni.
 
 6\. Przykryj miskę **folią spożywczą** i umieść w lodówce na **16-24 godziny**. Po tym czasie ciasto powinno być zwarte i wyrośnięte mniej więcej dwukrotnie.
 
-7\. Następnego dnia oprósz blat mąką i przełóż masę na blat. Posyp wierz mąką i rozgnieć ciasto, żeby je nieco wygazować. Podziel ciasto na **3 równe części** i z każdej z nich w rękach uformuj kulkę.
+7\. Następnego dnia oprósz blat mąką i przełóż na niego masę dyniową. Posyp wierzch mąką i rozgnieć ciasto, żeby je nieco wygazować. Podziel ciasto na **3 równe części** i z każdej z nich w rękach uformuj kulkę.
 
 ![Chleb dyniowy - formowanie](/assets/images/blog/2022-11-22-chleb-dyniowy/chleb-dyniowy-formowanie.jpg)
 
@@ -84,8 +84,8 @@ Alternatywnie możesz użyć gotowego puree z dyni.
 
 ![Chleb dyniowy - wyrastanie po](/assets/images/blog/2022-11-22-chleb-dyniowy/chleb-dyniowy-wyrastanie-po.jpg)
 
-10\. Rozbełtaj **1 jajko z 1 łyżką wody**. Wysmaruj nimi wierz chleba.
+10\. Rozbełtaj **1 jajko z 1 łyżką wody**. Wysmaruj nimi wierzch chleba.
 
-11\. Rozgrzej piekarnik do temperatury **180 stopni** i umieść formę w piekarniku na **35 minut**. Po tym wierz chleba powinien być pięknie zarumieniony.
+11\. Rozgrzej piekarnik do temperatury **180 stopni** i umieść formę w piekarniku na **35 minut**. Po tym wierzch chleba powinien być pięknie zarumieniony.
 
 ![Chleb dyniowy](/assets/images/blog/2022-11-22-chleb-dyniowy/chleb-dyniowy-gotowy.jpg)
