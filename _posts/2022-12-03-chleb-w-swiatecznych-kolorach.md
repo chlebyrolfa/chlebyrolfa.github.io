@@ -3,7 +3,7 @@ layout: post
 image:  assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach.jpg
 image-small:  assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach-small.jpg
 title: Chleb w świątecznych kolorach
-description: Idealny pszenny chleb na czas Bożego Narodzenia, przepiękny i świąteczny.
+description: Idealny pszenny chleb na czas Bożego Narodzenia, piękny i świąteczny.
 categories: chleby
 tags: drozdze prosty forma
 baking-pan: "25-27 cm"
@@ -15,7 +15,7 @@ when-to-start: 3 godziny przed wypiekiem
 
 -----
 
-Pszenny chleb idealnie wpasowujący się do bożonarodzeniowego klimatu. Piękne kolory można uzyskać wykorzystując barwniki spożywcze albo, dla bardziej eko-ambitnych, herbatę matcha i sproszkowanego buraka. Wtedy jednak polecam dodać nieco więcej wody do zabarwionych części ciasta. Całość przygotowania chleba trwa około 3-4 godzin, ale można też wyrobić ciasto wieczorem i włożyć na noc do lodówki. Wtedy rano wystarczy tylko uformować i odczekać 30 min przed pieczeniem. W obu przypadkach chleb wyjdzie tak samo smaczny. Wesołych Świąt!
+Prosty, pszenny chleb idealnie wpasowujący się w bożonarodzeniowy klimat. Piękne kolory można uzyskać wykorzystując barwniki spożywcze albo, dla bardziej eko-ambitnych, herbatę matcha i sproszkowanego buraka. Wtedy jednak polecam dodać nieco więcej wody do zabarwionych części ciasta. Całość przygotowania chleba trwa około 3-4 godzin, ale można też wyrobić ciasto wieczorem i włożyć na noc do lodówki. Wtedy rano wystarczy tylko je uformować i odczekać 30 min przed pieczeniem. W obu przypadkach chleb wyjdzie tak samo smaczny. Wesołych Świąt!
 
 -----
 
@@ -65,7 +65,7 @@ Pszenny chleb idealnie wpasowujący się do bożonarodzeniowego klimatu. Piękne
 
 5\. Przygotuj **3 miski** i do każdej z nich wlej odrobinę oleju. **Pierwszą** z trzech części ciasta umieść w jednej z misek i przykryj.
 
-6\. **Drugą** z cześci ciasta umieść z powrotem w dzieży. Dodaj odrobinę **barwnika czerwonego** i **łyżeczkę wody**, dobrze rozmieszaj. Następnie dodaj **1 łyżeczkę mąki** i wyrabiaj hakiem przez ok. **1-2 minuty** aż ciasto będzie miało jednolity czerwony kolor. Przełóż do drugiej miski i przykryj.
+6\. **Drugą** część ciasta umieść z powrotem w dzieży. Dodaj odrobinę **barwnika czerwonego** i **łyżeczkę wody**, dobrze rozmieszaj. Następnie dodaj **1 łyżeczkę mąki** i wyrabiaj hakiem przez ok. **1-2 minuty**, aż ciasto będzie miało jednolity czerwony kolor. Przełóż do drugiej miski i przykryj.
 
 Alternatywnie możesz wyrobić ciasto rękami do uzyskania jednolitego czerwonego koloru, ale niestety barwniki spożywcze bardzo farbują skórę rąk, którą ciężko potem domyć.
 
@@ -93,7 +93,7 @@ Formę przykryj ściereczką albo włóż do torby plastikowej.
 
 12\. Odczekaj **30 minut**.
 
-13\. Rozgrzej piekarnik do **180 stopni** i włóż do niego formę z ciastem. Piecz przez **30 minut**, chleb powinien dość sporo wyrosnąć. Po wyciągnięci z piekarnika, od razu wyciągnij chleb z formy i studź na kratce kuchennej.
+13\. Rozgrzej piekarnik do **180 stopni** i włóż do niego formę z ciastem. Piecz przez **30 minut**, chleb powinien dość sporo wyrosnąć. Po wyciągnięciu z piekarnika, od razu wyciągnij chleb z formy i studź na kratce kuchennej.
 
 ![Chleb w świątecznych kolorach](/assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach-gotowy.jpg)
 
