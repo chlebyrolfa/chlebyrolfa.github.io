@@ -1,7 +1,7 @@
 ---
 layout: post
-image:  assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach.jpg
-image-small:  assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach-small.jpg
+image:  assets/images/blog/2022-12-04-chleb-w-swiatecznych-kolorach/chleb-w-swiatecznych-kolorach.jpg
+image-small:  assets/images/blog/2022-12-04-chleb-w-swiatecznych-kolorach/chleb-w-swiatecznych-kolorach-small.jpg
 title: Chleb w świątecznych kolorach
 description: Idealny pszenny chleb na czas Bożego Narodzenia, piękny i świąteczny.
 categories: chleby
@@ -79,15 +79,15 @@ Alternatywnie, zamiast barwników spożywczych można użyć sproszkowanego bura
 
 10\. Odstaw na **30 minut**.
 
-![Chleb w świątecznych kolorach - wyrastanie](/assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach-wyrastanie.jpg)
+![Chleb w świątecznych kolorach - wyrastanie](/assets/images/blog/2022-12-04-chleb-w-swiatecznych-kolorach/chleb-w-swiatecznych-kolorach-wyrastanie.jpg)
 
 11\. Przygotuj **formę** do pieczenia, wyłóż ją papierem do pieczenia albo wysmaruj obficie masłem. Jeśli używasz formy silikonowej, wystarczy ją posmarować olejem.
 
 Obsyp blat mąką i po kolei przełóż każdy kawałek ciasta i **rozwałkuj** go na prostokąt. Proponuję zacząć od prostokątu czerwonego, wtedy chleb na wierzchu będzie czerwony. **Nałóż** prostokąty na siebie i wszystkie razem jeszcze raz **rozwałkuj**. Następnie **zwiń** je w rulon i przełóż do formy do pieczenia.
 
-![Chleb w świątecznych kolorach - wałkowanie](/assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach-walkowanie.jpg)
+![Chleb w świątecznych kolorach - wałkowanie](/assets/images/blog/2022-12-04-chleb-w-swiatecznych-kolorach/chleb-w-swiatecznych-kolorach-walkowanie.jpg)
 
-![Chleb w świątecznych kolorach - zawinięty](/assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach-zawiniety.jpg)
+![Chleb w świątecznych kolorach - zawinięty](/assets/images/blog/2022-12-04-chleb-w-swiatecznych-kolorach/chleb-w-swiatecznych-kolorach-zawiniety.jpg)
 
 Formę przykryj ściereczką albo włóż do torby plastikowej.
 
@@ -95,5 +95,4 @@ Formę przykryj ściereczką albo włóż do torby plastikowej.
 
 13\. Rozgrzej piekarnik do **180 stopni** i włóż do niego formę z ciastem. Piecz przez **30 minut**, chleb powinien dość sporo wyrosnąć. Po wyciągnięciu z piekarnika, od razu wyciągnij chleb z formy i studź na kratce kuchennej.
 
-![Chleb w świątecznych kolorach](/assets/images/blog/2022-12-03-chleb-w-swiatecznych-kolorach/2022-12-03-chleb-w-swiatecznych-kolorach-gotowy.jpg)
-
+![Chleb w świątecznych kolorach](/assets/images/blog/2022-12-04-chleb-w-swiatecznych-kolorach/chleb-w-swiatecznych-kolorach-gotowy.jpg)
