@@ -6,7 +6,7 @@ logo: 'assets/images/icons/logo.png'
 favicon: 'assets/images/icons/logo.png'
 url: https://www.chlebyrolfa.pl
 baseurl:
-google_analytics: 'UA-164126054-1'
+google_analytics: 'G-7X6VB3SG8H'
 disqus: 'chlebyrolfa'
 mailchimp-list:
 include: ["_pages"]
