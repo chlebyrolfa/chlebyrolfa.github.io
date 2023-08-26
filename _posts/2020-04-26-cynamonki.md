@@ -13,7 +13,7 @@ amount: 8-12 bułeczek
 
 -----
 
-Ulubione bułeczki mojej żony. Sprawdzają się świetnie na lekkie słodkie śniadanie i pasują idealnie do kawy! Ostatnia faza ich wyrastania następuje w lodówce, co oznacza, że rano przekładamy je bezpośrednio z lodówki do piekarnika i po 10 minutach cynamonki są gotowe! Czasem przygotowuję do nich sos z mascarpone albo serka Philadelphia, wtedy smakują jak słodkości z Cinnabon. Najczęściej jednak jemy je same, wyjęte bezpośrednio z piekarnika, z filiżanką cipełego cappuccino.
+Ulubione bułeczki mojej żony. Sprawdzają się świetnie na lekkie słodkie śniadanie i pasują idealnie do kawy! Ostatnia faza ich wyrastania może nastąpić w lodówce, co oznacza, że rano przekładamy je bezpośrednio z lodówki do piekarnika i po 10 minutach cynamonki są gotowe! Czasem przygotowuję do nich sos z mascarpone albo serka Philadelphia, wtedy smakują jak słodkości z Cinnabon. Najczęściej jednak jemy je same, wyjęte bezpośrednio z piekarnika, z filiżanką cipełego cappuccino.
 
 -----
 
@@ -56,7 +56,7 @@ Ulubione bułeczki mojej żony. Sprawdzają się świetnie na lekkie słodkie ś
 10. Zwiń wzdłuż **dłuższego boku**
 11. Krój na **2-3 centymetrowe plastry** i ułóż na **blasze** wyłożonej papierem do pieczenia
 12. Przykryj i odstaw na **60 minut**
-13. Włóż do **lodówki na noc**
+13. Opcjonalnie Włóż do **lodówki na noc**
 14. Rano posmaruj **jajkiem rozbełtanym z łyżką wody**
 15. Posyp resztą **mieszanki cynamonowo-kardamonowej**
 16. Piecz **10 minut** w **220 stopniach**
@@ -98,7 +98,7 @@ Ulubione bułeczki mojej żony. Sprawdzają się świetnie na lekkie słodkie ś
 ![Cynamonki - Przygotowanie ciasta](/assets/images/blog/2020-04-26-cynamonki/cynamonki-buleczki-cynamonowe-przygotowanie-ciasta.jpg)
 
 12\. Owiń blachę z cynamonkami **folią spożywczą** i odstaw na **60 minut** w temperaturze pokojowej.\\
-13\. Po tym czasie, włóż na **noc do lodówki**.\\
+13\. Po tym czasie, możesz włóżyć na **noc do lodówki** albo bezpośrednio do piekarnika.\\
 14\. Rano wyciągnij blachę z lodówki i odwiń z folii. Rozbełtaj **jajko z łyżką wody** i posmaruj nimi cynamonki.
 
 ![Cynamonki - Jajko](/assets/images/blog/2020-04-26-cynamonki/cynamonki-buleczki-cynamonowe-jajko.jpg)
